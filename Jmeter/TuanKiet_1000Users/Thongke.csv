@@ -1,0 +1,856 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.68E+12,1408,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-76,text,TRUE,,78445,114,172,172,https://shopdunk.com/,1340,0,921
+1.68E+12,835,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-125,text,TRUE,,78443,114,172,172,https://shopdunk.com/,773,0,291
+1.68E+12,1608,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-60,text,TRUE,,78447,114,172,172,https://shopdunk.com/,1517,0,1053
+1.68E+12,1959,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-11,text,TRUE,,78430,114,172,172,https://shopdunk.com/,1891,0,1524
+1.68E+12,1961,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-9,text,TRUE,,78450,114,172,172,https://shopdunk.com/,1902,0,1487
+1.68E+12,1410,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-85,text,TRUE,,78421,114,172,172,https://shopdunk.com/,1350,0,900
+1.68E+12,1846,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-39,text,TRUE,,78401,114,172,172,https://shopdunk.com/,1760,0,1266
+1.68E+12,1463,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-74,text,TRUE,,78439,114,172,172,https://shopdunk.com/,1361,0,920
+1.68E+12,1935,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-28,text,TRUE,,78454,114,173,173,https://shopdunk.com/,1842,0,1428
+1.68E+12,1875,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-41,text,TRUE,,78450,114,177,177,https://shopdunk.com/,1764,0,1395
+1.68E+12,1983,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-69,text,TRUE,,78428,114,213,213,https://shopdunk.com/,1818,0,877
+1.68E+12,1917,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-90,text,TRUE,,78431,114,214,214,https://shopdunk.com/,1796,0,1046
+1.68E+12,1488,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-132,text,TRUE,,78425,114,225,225,https://shopdunk.com/,1339,0,281
+1.68E+12,2619,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-50,text,TRUE,,78446,114,255,255,https://shopdunk.com/,2434,0,1189
+1.68E+12,2553,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-63,text,TRUE,,78449,114,262,262,https://shopdunk.com/,2454,0,1318
+1.68E+12,3044,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-16,text,TRUE,,78445,114,276,276,https://shopdunk.com/,2861,0,1478
+1.68E+12,2628,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-80,text,TRUE,,78431,114,294,294,https://shopdunk.com/,2429,0,1003
+1.68E+12,2939,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-55,text,TRUE,,78444,114,294,294,https://shopdunk.com/,2748,0,1260
+1.68E+12,3613,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-6,text,TRUE,,78444,114,340,340,https://shopdunk.com/,3440,0,1441
+1.68E+12,2972,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-103,text,TRUE,,78438,114,352,352,https://shopdunk.com/,2751,0,713
+1.68E+12,3698,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-29,text,TRUE,,78443,114,353,353,https://shopdunk.com/,3467,0,1433
+1.68E+12,3298,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-83,text,TRUE,,78425,114,361,361,https://shopdunk.com/,3062,0,917
+1.68E+12,3338,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-78,text,TRUE,,78426,114,363,363,https://shopdunk.com/,3209,0,953
+1.68E+12,3100,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-105,text,TRUE,,78441,114,363,363,https://shopdunk.com/,2966,0,716
+1.68E+12,3849,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-65,text,TRUE,,78439,114,396,396,https://shopdunk.com/,3679,0,1299
+1.68E+12,3707,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-68,text,TRUE,,78449,114,396,396,https://shopdunk.com/,3525,0,1026
+1.68E+12,3801,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-84,text,TRUE,,78431,114,416,416,https://shopdunk.com/,3620,0,1049
+1.68E+12,3026,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-126,text,TRUE,,78445,114,429,429,https://shopdunk.com/,2918,0,354
+1.68E+12,4258,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-56,text,TRUE,,78434,114,430,430,https://shopdunk.com/,4100,0,1371
+1.68E+12,4540,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-18,text,TRUE,,78436,114,438,438,https://shopdunk.com/,4381,0,1727
+1.68E+12,4591,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-27,text,TRUE,,78441,114,450,450,https://shopdunk.com/,4413,0,1472
+1.68E+12,4134,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-94,text,TRUE,,78423,114,461,461,https://shopdunk.com/,3998,0,863
+1.68E+12,4549,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-54,text,TRUE,,78445,114,462,462,https://shopdunk.com/,4395,0,1246
+1.68E+12,4676,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-49,text,TRUE,,78451,114,474,474,https://shopdunk.com/,4499,0,1327
+1.68E+12,4833,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-31,text,TRUE,,78456,114,474,474,https://shopdunk.com/,4662,0,1456
+1.68E+12,4993,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-4,text,TRUE,,78430,114,484,484,https://shopdunk.com/,4810,0,1499
+1.68E+12,4876,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-37,text,TRUE,,78446,114,484,484,https://shopdunk.com/,4704,0,1421
+1.68E+12,4443,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-87,text,TRUE,,78449,114,490,490,https://shopdunk.com/,4263,0,924
+1.68E+12,4428,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-95,text,TRUE,,78409,114,490,490,https://shopdunk.com/,4245,0,874
+1.68E+12,4973,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-48,text,TRUE,,78450,114,498,498,https://shopdunk.com/,4728,0,1195
+1.68E+12,4888,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-66,text,TRUE,,78439,114,507,507,https://shopdunk.com/,4707,0,1297
+1.68E+12,5416,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-15,text,TRUE,,78421,114,525,525,https://shopdunk.com/,5114,0,1497
+1.68E+12,4959,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-70,text,TRUE,,78445,114,533,533,https://shopdunk.com/,4769,0,983
+1.68E+12,5619,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-30,text,TRUE,,78415,114,559,559,https://shopdunk.com/,5265,0,1341
+1.68E+12,5687,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-2,text,TRUE,,78438,114,561,561,https://shopdunk.com/,5467,0,1514
+1.68E+12,5705,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-20,text,TRUE,,78454,114,563,563,https://shopdunk.com/,5467,0,1590
+1.68E+12,4936,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-106,text,TRUE,,78464,114,564,564,https://shopdunk.com/,4657,0,692
+1.68E+12,1125,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-438,text,FALSE,,1341,114,564,564,https://shopdunk.com/,1124,0,168
+1.68E+12,5666,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-34,text,TRUE,,78458,114,564,564,https://shopdunk.com/,5399,0,1460
+1.68E+12,736,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-37,text,FALSE,,1333,120,564,564,https://shopdunk.com/iphone,736,0,0
+1.68E+12,939,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-468,text,FALSE,,1333,114,564,564,https://shopdunk.com/,927,0,171
+1.68E+12,1167,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-445,text,FALSE,,1337,114,564,564,https://shopdunk.com/,1167,0,179
+1.68E+12,625,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-495,text,FALSE,,1337,114,564,564,https://shopdunk.com/,625,0,173
+1.68E+12,617,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-499,text,FALSE,,1327,114,564,564,https://shopdunk.com/,617,0,179
+1.68E+12,639,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-494,text,FALSE,,1333,114,564,564,https://shopdunk.com/,639,0,176
+1.68E+12,680,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-496,text,FALSE,,1335,114,575,575,https://shopdunk.com/,680,0,180
+1.68E+12,849,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-483,text,FALSE,,1347,114,575,575,https://shopdunk.com/,849,0,200
+1.68E+12,900,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-477,text,FALSE,,1341,114,575,575,https://shopdunk.com/,900,0,154
+1.68E+12,805,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-478,text,FALSE,,1341,114,575,575,https://shopdunk.com/,805,0,163
+1.68E+12,5849,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-10,text,TRUE,,78417,114,579,579,https://shopdunk.com/,5478,0,1600
+1.68E+12,1120,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-462,text,FALSE,,1341,114,580,580,https://shopdunk.com/,1120,0,151
+1.68E+12,494,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-15,text,FALSE,,1333,120,582,582,https://shopdunk.com/iphone,494,0,0
+1.68E+12,884,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-489,text,FALSE,,1334,114,582,582,https://shopdunk.com/,884,0,165
+1.68E+12,1236,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-454,text,FALSE,,1335,114,582,582,https://shopdunk.com/,1236,0,202
+1.68E+12,970,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-480,text,FALSE,,1335,114,582,582,https://shopdunk.com/,970,0,208
+1.68E+12,953,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-482,text,FALSE,,1333,114,582,582,https://shopdunk.com/,953,0,193
+1.68E+12,945,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-485,text,FALSE,,1333,114,582,582,https://shopdunk.com/,945,0,172
+1.68E+12,715,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-506,text,FALSE,,1325,114,582,582,https://shopdunk.com/,715,0,195
+1.68E+12,697,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-509,text,FALSE,,1331,114,582,582,https://shopdunk.com/,697,0,177
+1.68E+12,924,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-488,text,FALSE,,1339,114,582,582,https://shopdunk.com/,924,0,235
+1.68E+12,651,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-512,text,FALSE,,1335,114,582,582,https://shopdunk.com/,651,0,208
+1.68E+12,739,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-501,text,FALSE,,1341,114,582,582,https://shopdunk.com/,739,0,203
+1.68E+12,4286,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-169,text,TRUE,,78452,114,582,582,https://shopdunk.com/,4102,0,198
+1.68E+12,642,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-507,text,FALSE,,1335,114,582,582,https://shopdunk.com/,642,0,215
+1.68E+12,615,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-518,text,FALSE,,1329,114,582,582,https://shopdunk.com/,615,0,208
+1.68E+12,755,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-505,text,FALSE,,1339,114,582,582,https://shopdunk.com/,755,0,222
+1.68E+12,833,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-492,text,FALSE,,1328,114,582,582,https://shopdunk.com/,833,0,212
+1.68E+12,647,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-515,text,FALSE,,1335,114,582,582,https://shopdunk.com/,647,0,217
+1.68E+12,668,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-504,text,FALSE,,1329,114,582,582,https://shopdunk.com/,668,0,197
+1.68E+12,633,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-517,text,FALSE,,1331,114,582,582,https://shopdunk.com/,633,0,220
+1.68E+12,662,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-513,text,FALSE,,1331,114,582,582,https://shopdunk.com/,662,0,205
+1.68E+12,487,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-70,text,FALSE,,1335,120,582,582,https://shopdunk.com/iphone,487,0,0
+1.68E+12,1180,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-463,text,FALSE,,1331,114,582,582,https://shopdunk.com/,1180,0,202
+1.68E+12,702,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-510,text,FALSE,,1333,114,582,582,https://shopdunk.com/,702,0,212
+1.68E+12,623,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-514,text,FALSE,,1335,114,591,591,https://shopdunk.com/,623,0,208
+1.68E+12,666,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-516,text,FALSE,,1335,114,591,591,https://shopdunk.com/,666,0,231
+1.68E+12,604,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-523,text,FALSE,,1331,114,591,591,https://shopdunk.com/,604,0,204
+1.68E+12,596,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-527,text,FALSE,,1333,114,591,591,https://shopdunk.com/,596,0,191
+1.68E+12,1199,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-465,text,FALSE,,1331,114,591,591,https://shopdunk.com/,1198,0,149
+1.68E+12,646,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-521,text,FALSE,,1327,114,591,591,https://shopdunk.com/,646,0,219
+1.68E+12,618,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-519,text,FALSE,,1331,114,591,591,https://shopdunk.com/,618,0,197
+1.68E+12,5854,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-45,text,TRUE,,78436,114,591,591,https://shopdunk.com/,5703,0,1333
+1.68E+12,667,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-520,text,FALSE,,1331,114,591,591,https://shopdunk.com/,667,0,240
+1.68E+12,833,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-503,text,FALSE,,1331,114,591,591,https://shopdunk.com/,833,0,230
+1.68E+12,626,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-526,text,FALSE,,1333,114,591,591,https://shopdunk.com/,626,0,197
+1.68E+12,5874,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-44,text,TRUE,,78440,114,593,593,https://shopdunk.com/,5708,0,1344
+1.68E+12,884,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-502,text,FALSE,,1331,114,593,593,https://shopdunk.com/,884,0,193
+1.68E+12,1233,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-470,text,FALSE,,1331,114,593,593,https://shopdunk.com/,1233,0,166
+1.68E+12,856,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-508,text,FALSE,,1333,114,594,594,https://shopdunk.com/,855,0,184
+1.68E+12,1148,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-475,text,FALSE,,1337,114,594,594,https://shopdunk.com/,1143,0,197
+1.68E+12,903,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-498,text,FALSE,,1333,114,594,594,https://shopdunk.com/,902,0,199
+1.68E+12,852,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-511,text,FALSE,,1331,114,594,594,https://shopdunk.com/,852,0,225
+1.68E+12,940,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-493,text,FALSE,,1337,114,594,594,https://shopdunk.com/,940,0,234
+1.68E+12,444,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-20,text,FALSE,,1341,120,600,600,https://shopdunk.com/iphone,444,0,0
+1.68E+12,421,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-438,text,FALSE,,1339,120,600,600,https://shopdunk.com/iphone,421,0,0
+1.68E+12,701,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-529,text,FALSE,,1329,114,600,600,https://shopdunk.com/,700,0,257
+1.68E+12,695,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-532,text,FALSE,,1331,114,600,600,https://shopdunk.com/,695,0,252
+1.68E+12,696,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-531,text,FALSE,,1335,114,600,600,https://shopdunk.com/,696,0,267
+1.68E+12,760,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-530,text,FALSE,,1333,114,612,612,https://shopdunk.com/,760,0,282
+1.68E+12,482,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-495,text,FALSE,,1327,120,616,616,https://shopdunk.com/iphone,482,0,0
+1.68E+12,706,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-536,text,FALSE,,1335,114,617,617,https://shopdunk.com/,702,0,205
+1.68E+12,784,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-524,text,FALSE,,1331,114,617,617,https://shopdunk.com/,784,0,269
+1.68E+12,4636,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-190,text,TRUE,,78451,114,617,617,https://shopdunk.com/,4399,0,172
+1.68E+12,5626,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-92,text,TRUE,,78440,114,617,617,https://shopdunk.com/,5381,0,1045
+1.68E+12,4647,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-189,text,TRUE,,78436,114,617,617,https://shopdunk.com/,4466,0,183
+1.68E+12,492,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-468,text,FALSE,,1333,120,617,617,https://shopdunk.com/iphone,492,0,0
+1.68E+12,509,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-34,text,FALSE,,1333,120,617,617,https://shopdunk.com/iphone,509,0,0
+1.68E+12,710,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-537,text,FALSE,,1337,114,617,617,https://shopdunk.com/,710,0,202
+1.68E+12,788,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-525,text,FALSE,,1331,114,617,617,https://shopdunk.com/,788,0,279
+1.68E+12,801,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-528,text,FALSE,,1333,114,617,617,https://shopdunk.com/,801,0,259
+1.68E+12,495,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-445,text,FALSE,,1335,120,617,617,https://shopdunk.com/iphone,495,0,0
+1.68E+12,5932,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-59,text,TRUE,,78430,114,617,617,https://shopdunk.com/,5681,0,1290
+1.68E+12,512,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-37,text,FALSE,,1331,131,617,617,https://shopdunk.com/iphone-14-pro-max,512,0,0
+1.68E+12,6261,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-8,text,TRUE,,78460,114,618,618,https://shopdunk.com/,6020,0,1524
+1.68E+12,6262,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-7,text,TRUE,,78431,114,618,618,https://shopdunk.com/,6036,0,1529
+1.68E+12,6106,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-46,text,TRUE,,78447,114,618,618,https://shopdunk.com/,5866,0,1429
+1.68E+12,716,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-541,text,FALSE,,1331,114,618,618,https://shopdunk.com/,716,0,296
+1.68E+12,744,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-538,text,FALSE,,1339,114,618,618,https://shopdunk.com/,744,0,322
+1.68E+12,468,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-496,text,FALSE,,1337,120,618,618,https://shopdunk.com/iphone,468,0,0
+1.68E+12,639,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-558,text,FALSE,,1331,114,618,618,https://shopdunk.com/,639,0,209
+1.68E+12,712,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-547,text,FALSE,,1333,114,618,618,https://shopdunk.com/,712,0,280
+1.68E+12,699,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-542,text,FALSE,,1331,114,618,618,https://shopdunk.com/,699,0,264
+1.68E+12,480,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-478,text,FALSE,,1330,120,618,618,https://shopdunk.com/iphone,480,0,0
+1.68E+12,485,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-483,text,FALSE,,1329,120,618,618,https://shopdunk.com/iphone,485,0,0
+1.68E+12,741,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-546,text,FALSE,,1332,114,618,618,https://shopdunk.com/,741,0,303
+1.68E+12,692,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-550,text,FALSE,,1327,114,618,618,https://shopdunk.com/,692,0,249
+1.68E+12,671,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-556,text,FALSE,,1329,114,618,618,https://shopdunk.com/,671,0,226
+1.68E+12,748,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-545,text,FALSE,,1326,114,618,618,https://shopdunk.com/,748,0,304
+1.68E+12,636,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-561,text,FALSE,,1331,114,618,618,https://shopdunk.com/,636,0,195
+1.68E+12,428,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-462,text,FALSE,,1335,120,618,618,https://shopdunk.com/iphone,428,0,0
+1.68E+12,681,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-551,text,FALSE,,1337,114,618,618,https://shopdunk.com/,681,0,265
+1.68E+12,474,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-477,text,FALSE,,1329,120,618,618,https://shopdunk.com/iphone,474,0,0
+1.68E+12,679,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-552,text,FALSE,,1333,114,618,618,https://shopdunk.com/,679,0,253
+1.68E+12,807,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-535,text,FALSE,,1345,114,619,619,https://shopdunk.com/,807,0,220
+1.68E+12,677,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-554,text,FALSE,,1329,114,629,629,https://shopdunk.com/,677,0,235
+1.68E+12,725,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-544,text,FALSE,,1333,114,629,629,https://shopdunk.com/,725,0,281
+1.68E+12,643,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-565,text,FALSE,,1331,114,630,630,https://shopdunk.com/,642,0,236
+1.68E+12,450,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-489,text,FALSE,,1343,120,630,630,https://shopdunk.com/iphone,450,0,0
+1.68E+12,423,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-501,text,FALSE,,1335,120,630,630,https://shopdunk.com/iphone,423,0,0
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-488,text,FALSE,,1331,120,630,630,https://shopdunk.com/iphone,436,0,0
+1.68E+12,421,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-517,text,FALSE,,1335,120,630,630,https://shopdunk.com/iphone,421,0,0
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-169,text,FALSE,,1329,120,630,630,https://shopdunk.com/iphone,436,0,0
+1.68E+12,423,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-504,text,FALSE,,1327,120,630,630,https://shopdunk.com/iphone,423,0,0
+1.68E+12,427,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-492,text,FALSE,,1329,120,630,630,https://shopdunk.com/iphone,427,0,0
+1.68E+12,442,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-485,text,FALSE,,1331,120,630,630,https://shopdunk.com/iphone,442,0,0
+1.68E+12,441,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-506,text,FALSE,,1329,120,630,630,https://shopdunk.com/iphone,441,0,0
+1.68E+12,465,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-454,text,FALSE,,1339,120,630,630,https://shopdunk.com/iphone,465,0,0
+1.68E+12,428,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-515,text,FALSE,,1335,120,630,630,https://shopdunk.com/iphone,427,0,0
+1.68E+12,5888,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-72,text,TRUE,,78444,114,630,630,https://shopdunk.com/,5554,0,878
+1.68E+12,441,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-510,text,FALSE,,1331,120,630,630,https://shopdunk.com/iphone,441,0,0
+1.68E+12,443,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-463,text,FALSE,,1333,120,630,630,https://shopdunk.com/iphone,443,0,0
+1.68E+12,464,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-509,text,FALSE,,1329,120,630,630,https://shopdunk.com/iphone,464,0,0
+1.68E+12,442,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-70,text,FALSE,,1329,131,630,630,https://shopdunk.com/iphone-14-pro-max,442,0,0
+1.68E+12,459,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-512,text,FALSE,,1333,120,630,630,https://shopdunk.com/iphone,459,0,0
+1.68E+12,461,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-518,text,FALSE,,1329,120,631,631,https://shopdunk.com/iphone,461,0,0
+1.68E+12,6412,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-3,text,TRUE,,78452,114,631,631,https://shopdunk.com/,6254,0,1518
+1.68E+12,6413,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-19,text,TRUE,,78448,114,631,631,https://shopdunk.com/,6252,0,1525
+1.68E+12,714,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-564,text,FALSE,,1337,114,631,631,https://shopdunk.com/,713,0,260
+1.68E+12,464,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-505,text,FALSE,,1339,120,631,631,https://shopdunk.com/iphone,464,0,0
+1.68E+12,659,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-494,text,FALSE,,1333,120,631,631,https://shopdunk.com/iphone,659,0,0
+1.68E+12,6425,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-14,text,TRUE,,78446,114,631,631,https://shopdunk.com/,6253,0,1532
+1.68E+12,653,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-560,text,FALSE,,1333,114,631,631,https://shopdunk.com/,653,0,222
+1.68E+12,661,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-567,text,FALSE,,1327,114,631,631,https://shopdunk.com/,661,0,227
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-527,text,FALSE,,1331,120,631,631,https://shopdunk.com/iphone,436,0,0
+1.68E+12,636,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-566,text,FALSE,,1343,114,631,631,https://shopdunk.com/,636,0,206
+1.68E+12,454,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-523,text,FALSE,,1333,120,631,631,https://shopdunk.com/iphone,454,0,0
+1.68E+12,457,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-516,text,FALSE,,1333,120,631,631,https://shopdunk.com/iphone,457,0,0
+1.68E+12,461,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-514,text,FALSE,,1337,120,631,631,https://shopdunk.com/iphone,461,0,0
+1.68E+12,848,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-543,text,FALSE,,1333,114,632,632,https://shopdunk.com/,848,0,254
+1.68E+12,663,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-572,text,FALSE,,1335,114,632,632,https://shopdunk.com/,663,0,216
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-503,text,FALSE,,1331,120,632,632,https://shopdunk.com/iphone,436,0,0
+1.68E+12,837,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-534,text,FALSE,,1333,114,633,633,https://shopdunk.com/,837,0,238
+1.68E+12,854,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-549,text,FALSE,,1345,114,633,633,https://shopdunk.com/,854,0,255
+1.68E+12,682,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-569,text,FALSE,,1331,114,633,633,https://shopdunk.com/,682,0,264
+1.68E+12,905,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-539,text,FALSE,,1327,114,633,633,https://shopdunk.com/,905,0,307
+1.68E+12,685,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-571,text,FALSE,,1327,114,638,638,https://shopdunk.com/,685,0,232
+1.68E+12,5729,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-100,text,TRUE,,78454,114,638,638,https://shopdunk.com/,5525,0,764
+1.68E+12,454,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-526,text,FALSE,,1329,120,638,638,https://shopdunk.com/iphone,454,0,0
+1.68E+12,406,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-470,text,FALSE,,1337,120,638,638,https://shopdunk.com/iphone,406,0,0
+1.68E+12,1622,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-464,text,FALSE,,1329,114,638,638,https://shopdunk.com/,1622,0,178
+1.68E+12,443,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-44,text,FALSE,,1335,120,638,638,https://shopdunk.com/iphone,443,0,0
+1.68E+12,480,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-465,text,FALSE,,1335,120,638,638,https://shopdunk.com/iphone,480,0,0
+1.68E+12,410,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-502,text,FALSE,,1331,120,638,638,https://shopdunk.com/iphone,410,0,0
+1.68E+12,654,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-577,text,FALSE,,1331,114,638,638,https://shopdunk.com/,654,0,246
+1.68E+12,650,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-578,text,FALSE,,1333,114,640,640,https://shopdunk.com/,650,0,234
+1.68E+12,928,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-540,text,FALSE,,1335,114,640,640,https://shopdunk.com/,928,0,297
+1.68E+12,812,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-562,text,FALSE,,1331,114,640,640,https://shopdunk.com/,812,0,232
+1.68E+12,365,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-498,text,FALSE,,1331,120,640,640,https://shopdunk.com/iphone,365,0,0
+1.68E+12,681,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-575,text,FALSE,,1331,114,640,640,https://shopdunk.com/,681,0,254
+1.68E+12,913,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-548,text,FALSE,,1335,114,643,643,https://shopdunk.com/,912,0,268
+1.68E+12,884,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-553,text,FALSE,,1327,114,643,643,https://shopdunk.com/,884,0,251
+1.68E+12,883,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-555,text,FALSE,,1339,114,643,643,https://shopdunk.com/,883,0,230
+1.68E+12,570,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-513,text,FALSE,,1327,120,644,644,https://shopdunk.com/iphone,570,0,0
+1.68E+12,887,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-557,text,FALSE,,1334,114,644,644,https://shopdunk.com/,887,0,244
+1.68E+12,401,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-493,text,FALSE,,1329,120,644,644,https://shopdunk.com/iphone,401,0,0
+1.68E+12,880,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-559,text,FALSE,,1337,114,644,644,https://shopdunk.com/,880,0,232
+1.68E+12,637,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-581,text,FALSE,,1339,114,644,644,https://shopdunk.com/,637,0,197
+1.68E+12,380,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-531,text,FALSE,,1337,120,644,644,https://shopdunk.com/iphone,380,0,0
+1.68E+12,387,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-438,text,FALSE,,1329,131,645,645,https://shopdunk.com/iphone-14-pro-max,386,0,0
+1.68E+12,420,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-511,text,FALSE,,1333,120,646,646,https://shopdunk.com/iphone,420,0,0
+1.68E+12,467,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-508,text,FALSE,,1335,120,646,646,https://shopdunk.com/iphone,467,0,0
+1.68E+12,636,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-480,text,FALSE,,1333,120,646,646,https://shopdunk.com/iphone,636,0,0
+1.68E+12,632,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-482,text,FALSE,,1337,120,646,646,https://shopdunk.com/iphone,632,0,0
+1.68E+12,6054,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-71,text,TRUE,,78451,114,646,646,https://shopdunk.com/,5868,0,979
+1.68E+12,416,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-529,text,FALSE,,1336,120,646,646,https://shopdunk.com/iphone,416,0,0
+1.68E+12,419,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-20,text,FALSE,,1327,131,646,646,https://shopdunk.com/iphone-14-pro-max,419,0,0
+1.68E+12,870,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-563,text,FALSE,,1327,114,647,647,https://shopdunk.com/,870,0,248
+1.68E+12,625,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-507,text,FALSE,,1333,120,647,647,https://shopdunk.com/iphone,625,0,0
+1.68E+12,576,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-521,text,FALSE,,1331,120,647,647,https://shopdunk.com/iphone,576,0,0
+1.68E+12,623,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-591,text,FALSE,,1335,114,653,653,https://shopdunk.com/,623,0,236
+1.68E+12,826,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-573,text,FALSE,,1335,114,654,654,https://shopdunk.com/,826,0,239
+1.68E+12,1645,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-484,text,FALSE,,1337,114,654,654,https://shopdunk.com/,1645,0,176
+1.68E+12,814,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-574,text,FALSE,,1329,114,654,654,https://shopdunk.com/,814,0,234
+1.68E+12,612,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-45,text,FALSE,,1333,120,655,655,https://shopdunk.com/iphone,603,0,0
+1.68E+12,383,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-468,text,FALSE,,1327,131,655,655,https://shopdunk.com/iphone-14-pro-max,383,0,0
+1.68E+12,392,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-92,text,FALSE,,1329,120,657,657,https://shopdunk.com/iphone,392,0,0
+1.68E+12,6638,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-5,text,TRUE,,78448,114,657,657,https://shopdunk.com/,6401,0,1511
+1.68E+12,396,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-524,text,FALSE,,1333,120,657,657,https://shopdunk.com/iphone,396,0,0
+1.68E+12,863,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-568,text,FALSE,,1333,114,657,657,https://shopdunk.com/,862,0,260
+1.68E+12,667,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-585,text,FALSE,,1327,114,657,657,https://shopdunk.com/,666,0,263
+1.68E+12,401,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-525,text,FALSE,,1339,120,657,657,https://shopdunk.com/iphone,401,0,0
+1.68E+12,412,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-495,text,FALSE,,1329,131,657,657,https://shopdunk.com/iphone-14-pro-max,412,0,0
+1.68E+12,882,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-570,text,FALSE,,1341,114,659,659,https://shopdunk.com/,882,0,251
+1.68E+12,6452,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-51,text,TRUE,,78425,114,661,661,https://shopdunk.com/,6245,0,1442
+1.68E+12,405,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-558,text,FALSE,,1333,120,669,669,https://shopdunk.com/iphone,405,0,0
+1.68E+12,6692,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-22,text,TRUE,,78441,114,669,669,https://shopdunk.com/,6472,0,1535
+1.68E+12,850,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-579,text,FALSE,,1333,114,669,669,https://shopdunk.com/,850,0,197
+1.68E+12,451,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-189,text,FALSE,,1331,120,669,669,https://shopdunk.com/iphone,451,0,0
+1.68E+12,682,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-520,text,FALSE,,1329,120,669,669,https://shopdunk.com/iphone,682,0,0
+1.68E+12,458,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-528,text,FALSE,,1331,120,669,669,https://shopdunk.com/iphone,458,0,0
+1.68E+12,729,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-589,text,FALSE,,1329,114,669,669,https://shopdunk.com/,729,0,278
+1.68E+12,734,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-586,text,FALSE,,1329,114,669,669,https://shopdunk.com/,733,0,286
+1.68E+12,690,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-593,text,FALSE,,1335,114,669,669,https://shopdunk.com/,690,0,239
+1.68E+12,451,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-7,text,FALSE,,1333,120,669,669,https://shopdunk.com/iphone,451,0,0
+1.68E+12,429,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-496,text,FALSE,,1333,131,669,669,https://shopdunk.com/iphone-14-pro-max,429,0,0
+1.68E+12,468,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-537,text,FALSE,,1333,120,669,669,https://shopdunk.com/iphone,468,0,0
+1.68E+12,731,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-592,text,FALSE,,1329,114,669,669,https://shopdunk.com/,731,0,289
+1.68E+12,466,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-37,text,FALSE,,1337,148,669,669,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,466,0,0
+1.68E+12,410,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-462,text,FALSE,,1333,131,669,669,https://shopdunk.com/iphone-14-pro-max,410,0,0
+1.68E+12,411,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-551,text,FALSE,,1335,120,669,669,https://shopdunk.com/iphone,411,0,0
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-538,text,FALSE,,1331,120,669,669,https://shopdunk.com/iphone,436,0,0
+1.68E+12,416,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-550,text,FALSE,,1341,120,669,669,https://shopdunk.com/iphone,416,0,0
+1.68E+12,414,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-552,text,FALSE,,1335,120,669,669,https://shopdunk.com/iphone,414,0,0
+1.68E+12,422,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-483,text,FALSE,,1325,131,669,669,https://shopdunk.com/iphone-14-pro-max,422,0,0
+1.68E+12,421,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-546,text,FALSE,,1335,120,669,669,https://shopdunk.com/iphone,421,0,0
+1.68E+12,404,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-535,text,FALSE,,1329,120,669,669,https://shopdunk.com/iphone,404,0,0
+1.68E+12,416,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-477,text,FALSE,,1333,131,669,669,https://shopdunk.com/iphone-14-pro-max,416,0,0
+1.68E+12,429,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-547,text,FALSE,,1333,120,669,669,https://shopdunk.com/iphone,429,0,0
+1.68E+12,419,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-545,text,FALSE,,1333,120,669,669,https://shopdunk.com/iphone,419,0,0
+1.68E+12,412,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-556,text,FALSE,,1339,120,669,669,https://shopdunk.com/iphone,412,0,0
+1.68E+12,455,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-541,text,FALSE,,1331,120,669,669,https://shopdunk.com/iphone,455,0,0
+1.68E+12,619,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-475,text,FALSE,,1334,120,669,669,https://shopdunk.com/iphone,619,0,0
+1.68E+12,1657,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-491,text,FALSE,,1327,114,668,668,https://shopdunk.com/,1657,0,166
+1.68E+12,401,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-565,text,FALSE,,1331,120,668,668,https://shopdunk.com/iphone,401,0,0
+1.68E+12,417,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-554,text,FALSE,,1331,120,668,668,https://shopdunk.com/iphone,417,0,0
+1.68E+12,392,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-488,text,FALSE,,1335,131,668,668,https://shopdunk.com/iphone-14-pro-max,391,0,0
+1.68E+12,1600,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-500,text,FALSE,,1335,114,668,668,https://shopdunk.com/,1600,0,172
+1.68E+12,404,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-501,text,FALSE,,1331,131,668,668,https://shopdunk.com/iphone-14-pro-max,404,0,0
+1.68E+12,420,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-544,text,FALSE,,1333,120,668,668,https://shopdunk.com/iphone,420,0,0
+1.68E+12,403,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-517,text,FALSE,,1329,131,668,668,https://shopdunk.com/iphone-14-pro-max,403,0,0
+1.68E+12,430,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-492,text,FALSE,,1327,131,668,668,https://shopdunk.com/iphone-14-pro-max,429,0,0
+1.68E+12,913,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-583,text,FALSE,,1331,114,668,668,https://shopdunk.com/,913,0,323
+1.68E+12,673,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-590,text,FALSE,,1329,114,668,668,https://shopdunk.com/,673,0,259
+1.68E+12,6258,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-89,text,TRUE,,78447,114,682,682,https://shopdunk.com/,6046,0,901
+1.68E+12,459,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-494,text,FALSE,,1331,131,682,682,https://shopdunk.com/iphone-14-pro-max,459,0,0
+1.68E+12,6622,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-58,text,TRUE,,78441,114,682,682,https://shopdunk.com/,6402,0,1344
+1.68E+12,6741,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-42,text,TRUE,,78441,114,682,682,https://shopdunk.com/,6520,0,1458
+1.68E+12,763,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-597,text,FALSE,,1327,114,682,682,https://shopdunk.com/,763,0,277
+1.68E+12,481,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-3,text,FALSE,,1331,120,682,682,https://shopdunk.com/iphone,481,0,0
+1.68E+12,491,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-463,text,FALSE,,1329,131,682,682,https://shopdunk.com/iphone-14-pro-max,491,0,0
+1.68E+12,462,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-527,text,FALSE,,1333,131,682,682,https://shopdunk.com/iphone-14-pro-max,462,0,0
+1.68E+12,729,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-606,text,FALSE,,1327,114,682,682,https://shopdunk.com/,729,0,280
+1.68E+12,912,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-588,text,FALSE,,1327,114,682,682,https://shopdunk.com/,912,0,284
+1.68E+12,696,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-610,text,FALSE,,1329,114,682,682,https://shopdunk.com/,696,0,248
+1.68E+12,480,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-19,text,FALSE,,1331,120,682,682,https://shopdunk.com/iphone,480,0,0
+1.68E+12,703,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-607,text,FALSE,,1330,114,682,682,https://shopdunk.com/,703,0,233
+1.68E+12,444,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-543,text,FALSE,,1329,120,682,682,https://shopdunk.com/iphone,444,0,0
+1.68E+12,739,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-596,text,FALSE,,1335,114,682,682,https://shopdunk.com/,739,0,284
+1.68E+12,461,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-566,text,FALSE,,1335,120,682,682,https://shopdunk.com/iphone,461,0,0
+1.68E+12,672,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-615,text,FALSE,,1335,114,682,682,https://shopdunk.com/,672,0,218
+1.68E+12,470,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-567,text,FALSE,,1333,120,682,682,https://shopdunk.com/iphone,470,0,0
+1.68E+12,454,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-523,text,FALSE,,1343,131,682,682,https://shopdunk.com/iphone-14-pro-max,454,0,0
+1.68E+12,473,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-14,text,FALSE,,1333,120,682,682,https://shopdunk.com/iphone,472,0,0
+1.68E+12,703,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-608,text,FALSE,,1335,114,682,682,https://shopdunk.com/,703,0,250
+1.68E+12,669,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-618,text,FALSE,,1333,114,682,682,https://shopdunk.com/,669,0,216
+1.68E+12,439,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-569,text,FALSE,,1335,120,682,682,https://shopdunk.com/iphone,439,0,0
+1.68E+12,695,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-612,text,FALSE,,1331,114,682,682,https://shopdunk.com/,695,0,241
+1.68E+12,756,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-600,text,FALSE,,1331,114,682,682,https://shopdunk.com/,756,0,305
+1.68E+12,498,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-510,text,FALSE,,1337,131,682,682,https://shopdunk.com/iphone-14-pro-max,498,0,0
+1.68E+12,481,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-505,text,FALSE,,1337,131,682,682,https://shopdunk.com/iphone-14-pro-max,481,0,0
+1.68E+12,755,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-601,text,FALSE,,1329,114,682,682,https://shopdunk.com/,755,0,274
+1.68E+12,493,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-512,text,FALSE,,1331,131,682,682,https://shopdunk.com/iphone-14-pro-max,493,0,0
+1.68E+12,484,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-564,text,FALSE,,1337,120,682,682,https://shopdunk.com/iphone,484,0,0
+1.68E+12,439,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-539,text,FALSE,,1331,120,682,682,https://shopdunk.com/iphone,439,0,0
+1.68E+12,454,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-516,text,FALSE,,1331,131,682,682,https://shopdunk.com/iphone-14-pro-max,454,0,0
+1.68E+12,654,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-34,text,FALSE,,1331,131,682,682,https://shopdunk.com/iphone-14-pro-max,654,0,0
+1.68E+12,922,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-584,text,FALSE,,1335,114,682,682,https://shopdunk.com/,922,0,257
+1.68E+12,442,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-549,text,FALSE,,1337,120,682,682,https://shopdunk.com/iphone,442,0,0
+1.68E+12,449,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-572,text,FALSE,,1331,120,682,682,https://shopdunk.com/iphone,449,0,0
+1.68E+12,442,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-534,text,FALSE,,1333,120,682,682,https://shopdunk.com/iphone,442,0,0
+1.68E+12,702,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-609,text,FALSE,,1333,114,682,682,https://shopdunk.com/,702,0,249
+1.68E+12,663,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-619,text,FALSE,,1331,114,682,682,https://shopdunk.com/,663,0,224
+1.68E+12,453,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-514,text,FALSE,,1333,131,682,682,https://shopdunk.com/iphone-14-pro-max,453,0,0
+1.68E+12,642,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-8,text,FALSE,,1337,120,682,682,https://shopdunk.com/iphone,642,0,0
+1.68E+12,426,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-464,text,FALSE,,1329,120,682,682,https://shopdunk.com/iphone,426,0,0
+1.68E+12,425,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-465,text,FALSE,,1335,131,682,682,https://shopdunk.com/iphone-14-pro-max,425,0,0
+1.68E+12,413,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-575,text,FALSE,,1335,120,682,682,https://shopdunk.com/iphone,413,0,0
+1.68E+12,416,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-578,text,FALSE,,1337,120,682,682,https://shopdunk.com/iphone,416,0,0
+1.68E+12,767,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-598,text,FALSE,,1329,114,682,682,https://shopdunk.com/,767,0,274
+1.68E+12,434,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-526,text,FALSE,,1337,131,682,682,https://shopdunk.com/iphone-14-pro-max,434,0,0
+1.68E+12,652,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-620,text,FALSE,,1336,114,682,682,https://shopdunk.com/,652,0,223
+1.68E+12,442,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-571,text,FALSE,,1331,120,682,682,https://shopdunk.com/iphone,442,0,0
+1.68E+12,930,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-582,text,FALSE,,1339,114,682,682,https://shopdunk.com/,927,0,232
+1.68E+12,692,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-613,text,FALSE,,1331,114,682,682,https://shopdunk.com/,692,0,227
+1.68E+12,890,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-594,text,FALSE,,1333,114,682,682,https://shopdunk.com/,890,0,243
+1.68E+12,428,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-562,text,FALSE,,1329,120,682,682,https://shopdunk.com/iphone,428,0,0
+1.68E+12,445,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-100,text,FALSE,,1331,120,682,682,https://shopdunk.com/iphone,445,0,0
+1.68E+12,645,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-46,text,FALSE,,1333,120,682,682,https://shopdunk.com/iphone,645,0,0
+1.68E+12,777,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-602,text,FALSE,,1331,114,682,682,https://shopdunk.com/,777,0,312
+1.68E+12,448,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-502,text,FALSE,,1327,131,682,682,https://shopdunk.com/iphone-14-pro-max,448,0,0
+1.68E+12,559,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-504,text,FALSE,,1339,131,688,688,https://shopdunk.com/iphone-14-pro-max,547,0,0
+1.68E+12,568,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-169,text,FALSE,,1335,131,688,688,https://shopdunk.com/iphone-14-pro-max,568,0,0
+1.68E+12,570,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-454,text,FALSE,,1337,131,688,688,https://shopdunk.com/iphone-14-pro-max,570,0,0
+1.68E+12,571,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-515,text,FALSE,,1329,131,688,688,https://shopdunk.com/iphone-14-pro-max,571,0,0
+1.68E+12,437,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-557,text,FALSE,,1331,120,688,688,https://shopdunk.com/iphone,437,0,0
+1.68E+12,611,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-631,text,FALSE,,1337,114,688,688,https://shopdunk.com/,611,0,199
+1.68E+12,434,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-438,text,FALSE,,1339,148,688,688,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,434,0,0
+1.68E+12,626,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-630,text,FALSE,,1335,114,688,688,https://shopdunk.com/,626,0,218
+1.68E+12,438,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-531,text,FALSE,,1331,131,688,688,https://shopdunk.com/iphone-14-pro-max,438,0,0
+1.68E+12,645,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-617,text,FALSE,,1335,114,688,688,https://shopdunk.com/,645,0,192
+1.68E+12,649,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-623,text,FALSE,,1337,114,688,688,https://shopdunk.com/,649,0,191
+1.68E+12,411,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-508,text,FALSE,,1327,131,688,688,https://shopdunk.com/iphone-14-pro-max,411,0,0
+1.68E+12,457,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-555,text,FALSE,,1333,120,688,688,https://shopdunk.com/iphone,457,0,0
+1.68E+12,633,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-627,text,FALSE,,1329,114,688,688,https://shopdunk.com/,633,0,226
+1.68E+12,461,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-548,text,FALSE,,1337,120,688,688,https://shopdunk.com/iphone,461,0,0
+1.68E+12,447,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-493,text,FALSE,,1329,131,688,688,https://shopdunk.com/iphone-14-pro-max,446,0,0
+1.68E+12,408,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-529,text,FALSE,,1337,131,688,688,https://shopdunk.com/iphone-14-pro-max,408,0,0
+1.68E+12,461,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-553,text,FALSE,,1335,120,688,688,https://shopdunk.com/iphone,461,0,0
+1.68E+12,449,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-513,text,FALSE,,1337,131,688,688,https://shopdunk.com/iphone-14-pro-max,449,0,0
+1.68E+12,422,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-480,text,FALSE,,1331,131,689,689,https://shopdunk.com/iphone-14-pro-max,422,0,0
+1.68E+12,415,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-563,text,FALSE,,1333,120,689,689,https://shopdunk.com/iphone,415,0,0
+1.68E+12,442,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-511,text,FALSE,,1339,131,689,689,https://shopdunk.com/iphone-14-pro-max,438,0,0
+1.68E+12,426,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-482,text,FALSE,,1327,131,689,689,https://shopdunk.com/iphone-14-pro-max,426,0,0
+1.68E+12,609,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-485,text,FALSE,,1339,131,689,689,https://shopdunk.com/iphone-14-pro-max,609,0,0
+1.68E+12,647,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-628,text,FALSE,,1331,114,689,689,https://shopdunk.com/,647,0,223
+1.68E+12,422,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-20,text,FALSE,,1335,148,689,689,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,421,0,0
+1.68E+12,428,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-521,text,FALSE,,1329,131,690,690,https://shopdunk.com/iphone-14-pro-max,428,0,0
+1.68E+12,396,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-591,text,FALSE,,1335,120,690,690,https://shopdunk.com/iphone,396,0,0
+1.68E+12,578,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-560,text,FALSE,,1331,120,690,690,https://shopdunk.com/iphone,578,0,0
+1.68E+12,618,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-518,text,FALSE,,1333,131,695,695,https://shopdunk.com/iphone-14-pro-max,618,0,0
+1.68E+12,625,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-509,text,FALSE,,1331,131,695,695,https://shopdunk.com/iphone-14-pro-max,625,0,0
+1.68E+12,928,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-595,text,FALSE,,1329,114,695,695,https://shopdunk.com/,928,0,302
+1.68E+12,877,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-603,text,FALSE,,1333,114,695,695,https://shopdunk.com/,877,0,274
+1.68E+12,421,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-484,text,FALSE,,1331,120,697,697,https://shopdunk.com/iphone,421,0,0
+1.68E+12,414,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-45,text,FALSE,,1327,131,697,697,https://shopdunk.com/iphone-14-pro-max,414,0,0
+1.68E+12,577,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-44,text,FALSE,,1335,131,699,699,https://shopdunk.com/iphone-14-pro-max,576,0,0
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-573,text,FALSE,,1331,120,699,699,https://shopdunk.com/iphone,436,0,0
+1.68E+12,565,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-540,text,FALSE,,1341,120,699,699,https://shopdunk.com/iphone,565,0,0
+1.68E+12,417,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-92,text,FALSE,,1329,131,699,699,https://shopdunk.com/iphone-14-pro-max,417,0,0
+1.68E+12,426,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-468,text,FALSE,,1333,148,699,699,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,426,0,0
+1.68E+12,858,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-605,text,FALSE,,1333,114,701,701,https://shopdunk.com/,858,0,243
+1.68E+12,608,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-503,text,FALSE,,1331,131,701,701,https://shopdunk.com/iphone-14-pro-max,608,0,0
+1.68E+12,406,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-570,text,FALSE,,1331,120,701,701,https://shopdunk.com/iphone,406,0,0
+1.68E+12,867,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-611,text,FALSE,,1329,114,701,701,https://shopdunk.com/,867,0,248
+1.68E+12,843,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-616,text,FALSE,,1333,114,701,701,https://shopdunk.com/,843,0,230
+1.68E+12,600,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-644,text,FALSE,,1339,114,704,704,https://shopdunk.com/,600,0,182
+1.68E+12,926,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-604,text,FALSE,,1327,114,704,704,https://shopdunk.com/,926,0,285
+1.68E+12,918,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-599,text,FALSE,,1331,114,704,704,https://shopdunk.com/,918,0,283
+1.68E+12,619,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-639,text,FALSE,,1333,114,704,704,https://shopdunk.com/,619,0,202
+1.68E+12,419,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-51,text,FALSE,,1337,120,704,704,https://shopdunk.com/iphone,419,0,0
+1.68E+12,612,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-470,text,FALSE,,1331,131,704,704,https://shopdunk.com/iphone-14-pro-max,612,0,0
+1.68E+12,451,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-568,text,FALSE,,1331,120,705,705,https://shopdunk.com/iphone,451,0,0
+1.68E+12,400,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-558,text,FALSE,,1339,131,705,705,https://shopdunk.com/iphone-14-pro-max,399,0,0
+1.68E+12,640,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-633,text,FALSE,,1331,114,705,705,https://shopdunk.com/,640,0,194
+1.68E+12,619,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-577,text,FALSE,,1331,120,705,705,https://shopdunk.com/iphone,619,0,0
+1.68E+12,406,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-22,text,FALSE,,1331,120,705,705,https://shopdunk.com/iphone,406,0,0
+1.68E+12,407,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-579,text,FALSE,,1325,120,705,705,https://shopdunk.com/iphone,407,0,0
+1.68E+12,638,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-636,text,FALSE,,1329,114,705,705,https://shopdunk.com/,638,0,207
+1.68E+12,616,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-638,text,FALSE,,1327,114,707,707,https://shopdunk.com/,616,0,176
+1.68E+12,646,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-629,text,FALSE,,1333,114,707,707,https://shopdunk.com/,646,0,207
+1.68E+12,469,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-585,text,FALSE,,1329,120,707,707,https://shopdunk.com/iphone,469,0,0
+1.68E+12,389,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-545,text,FALSE,,1335,131,707,707,https://shopdunk.com/iphone-14-pro-max,389,0,0
+1.68E+12,419,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-189,text,FALSE,,1329,131,707,707,https://shopdunk.com/iphone-14-pro-max,419,0,0
+1.68E+12,628,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-645,text,FALSE,,1335,114,707,707,https://shopdunk.com/,627,0,209
+1.68E+12,630,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-641,text,FALSE,,1329,114,707,707,https://shopdunk.com/,630,0,215
+1.68E+12,410,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-550,text,FALSE,,1333,131,708,708,https://shopdunk.com/iphone-14-pro-max,410,0,0
+1.68E+12,417,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-586,text,FALSE,,1341,120,708,708,https://shopdunk.com/iphone,417,0,0
+1.68E+12,419,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-462,text,FALSE,,1327,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,419,0,0
+1.68E+12,422,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-496,text,FALSE,,1333,148,707,707,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,422,0,0
+1.68E+12,430,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-528,text,FALSE,,1329,131,707,707,https://shopdunk.com/iphone-14-pro-max,430,0,0
+1.68E+12,418,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-551,text,FALSE,,1333,131,706,706,https://shopdunk.com/iphone-14-pro-max,418,0,0
+1.68E+12,427,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-589,text,FALSE,,1341,120,706,706,https://shopdunk.com/iphone,427,0,0
+1.68E+12,415,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-546,text,FALSE,,1331,131,706,706,https://shopdunk.com/iphone-14-pro-max,415,0,0
+1.68E+12,424,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-593,text,FALSE,,1331,120,706,706,https://shopdunk.com/iphone,424,0,0
+1.68E+12,409,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-475,text,FALSE,,1327,131,706,706,https://shopdunk.com/iphone-14-pro-max,403,0,0
+1.68E+12,427,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-592,text,FALSE,,1331,120,706,706,https://shopdunk.com/iphone,427,0,0
+1.68E+12,615,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-581,text,FALSE,,1335,120,706,706,https://shopdunk.com/iphone,615,0,0
+1.68E+12,415,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-541,text,FALSE,,1333,131,706,706,https://shopdunk.com/iphone-14-pro-max,415,0,0
+1.68E+12,423,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-535,text,FALSE,,1329,131,706,706,https://shopdunk.com/iphone-14-pro-max,423,0,0
+1.68E+12,418,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-556,text,FALSE,,1333,131,708,708,https://shopdunk.com/iphone-14-pro-max,417,0,0
+1.68E+12,434,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-7,text,FALSE,,1333,131,708,708,https://shopdunk.com/iphone-14-pro-max,434,0,0
+1.68E+12,823,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-625,text,FALSE,,1339,114,708,708,https://shopdunk.com/,823,0,208
+1.68E+12,570,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-651,text,FALSE,,1335,114,708,708,https://shopdunk.com/,570,0,191
+1.68E+12,828,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-624,text,FALSE,,1337,114,708,708,https://shopdunk.com/,828,0,210
+1.68E+12,402,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-565,text,FALSE,,1329,131,710,710,https://shopdunk.com/iphone-14-pro-max,402,0,0
+1.68E+12,634,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-647,text,FALSE,,1329,114,710,710,https://shopdunk.com/,633,0,229
+1.68E+12,438,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-491,text,FALSE,,1333,120,714,714,https://shopdunk.com/iphone,438,0,0
+1.68E+12,431,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-554,text,FALSE,,1333,131,714,714,https://shopdunk.com/iphone-14-pro-max,431,0,0
+1.68E+12,425,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-544,text,FALSE,,1333,131,714,714,https://shopdunk.com/iphone-14-pro-max,425,0,0
+1.68E+12,577,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-524,text,FALSE,,1327,131,716,716,https://shopdunk.com/iphone-14-pro-max,577,0,0
+1.68E+12,450,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-488,text,FALSE,,1333,148,716,716,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,450,0,0
+1.68E+12,682,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-649,text,FALSE,,1325,114,716,716,https://shopdunk.com/,682,0,228
+1.68E+12,903,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-621,text,FALSE,,1333,114,715,715,https://shopdunk.com/,903,0,193
+1.68E+12,657,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-71,text,FALSE,,1335,120,715,715,https://shopdunk.com/iphone,657,0,0
+1.68E+12,650,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-507,text,FALSE,,1331,131,715,715,https://shopdunk.com/iphone-14-pro-max,650,0,0
+1.68E+12,455,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-500,text,FALSE,,1327,120,715,715,https://shopdunk.com/iphone,444,0,0
+1.68E+12,702,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-640,text,FALSE,,1333,114,715,715,https://shopdunk.com/,702,0,242
+1.68E+12,444,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-517,text,FALSE,,1333,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,443,0,0
+1.68E+12,691,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-559,text,FALSE,,1333,120,715,715,https://shopdunk.com/iphone,691,0,0
+1.68E+12,909,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-622,text,FALSE,,1335,114,714,714,https://shopdunk.com/,909,0,197
+1.68E+12,7257,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-21,text,TRUE,,78435,114,716,716,https://shopdunk.com/,7085,0,1527
+1.68E+12,451,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-492,text,FALSE,,1327,148,716,716,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,451,0,0
+1.68E+12,451,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-590,text,FALSE,,1337,120,715,715,https://shopdunk.com/iphone,451,0,0
+1.68E+12,615,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-495,text,FALSE,,1329,148,716,716,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,615,0,0
+1.68E+12,801,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-635,text,FALSE,,1335,114,716,716,https://shopdunk.com/,801,0,186
+1.68E+12,456,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-583,text,FALSE,,1331,120,715,715,https://shopdunk.com/iphone,456,0,0
+1.68E+12,671,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-648,text,FALSE,,1331,114,715,715,https://shopdunk.com/,670,0,215
+1.68E+12,684,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-646,text,FALSE,,1327,114,715,715,https://shopdunk.com/,684,0,227
+1.68E+12,654,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-574,text,FALSE,,1331,120,716,716,https://shopdunk.com/iphone,654,0,0
+1.68E+12,658,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-657,text,FALSE,,1335,114,716,716,https://shopdunk.com/,658,0,259
+1.68E+12,652,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-658,text,FALSE,,1339,114,716,716,https://shopdunk.com/,652,0,195
+1.68E+12,790,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-642,text,FALSE,,1333,114,717,717,https://shopdunk.com/,790,0,203
+1.68E+12,860,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-632,text,FALSE,,1333,114,717,717,https://shopdunk.com/,860,0,232
+1.68E+12,636,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-525,text,FALSE,,1332,131,717,717,https://shopdunk.com/iphone-14-pro-max,636,0,0
+1.68E+12,399,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-596,text,FALSE,,1331,120,720,720,https://shopdunk.com/iphone,399,0,0
+1.68E+12,653,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-660,text,FALSE,,1331,114,721,721,https://shopdunk.com/,653,0,229
+1.68E+12,845,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-637,text,FALSE,,1335,114,721,721,https://shopdunk.com/,845,0,199
+1.68E+12,398,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-582,text,FALSE,,1333,120,721,721,https://shopdunk.com/iphone,397,0,0
+1.68E+12,850,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-634,text,FALSE,,1329,114,721,721,https://shopdunk.com/,850,0,209
+1.68E+12,597,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-537,text,FALSE,,1333,131,721,721,https://shopdunk.com/iphone-14-pro-max,597,0,0
+1.68E+12,413,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-584,text,FALSE,,1333,120,721,721,https://shopdunk.com/iphone,412,0,0
+1.68E+12,414,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-534,text,FALSE,,1330,131,721,721,https://shopdunk.com/iphone-14-pro-max,414,0,0
+1.68E+12,416,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-572,text,FALSE,,1327,131,721,721,https://shopdunk.com/iphone-14-pro-max,416,0,0
+1.68E+12,397,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-602,text,FALSE,,1333,120,721,721,https://shopdunk.com/iphone,397,0,0
+1.68E+12,424,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-575,text,FALSE,,1333,131,723,723,https://shopdunk.com/iphone-14-pro-max,424,0,0
+1.68E+12,429,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-608,text,FALSE,,1335,120,723,723,https://shopdunk.com/iphone,429,0,0
+1.68E+12,434,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-606,text,FALSE,,1333,120,723,723,https://shopdunk.com/iphone,434,0,0
+1.68E+12,463,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-494,text,FALSE,,1333,148,723,723,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,463,0,0
+1.68E+12,453,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-527,text,FALSE,,1329,148,723,723,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,453,0,0
+1.68E+12,444,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-578,text,FALSE,,1331,131,722,722,https://shopdunk.com/iphone-14-pro-max,444,0,0
+1.68E+12,452,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-566,text,FALSE,,1339,131,721,721,https://shopdunk.com/iphone-14-pro-max,452,0,0
+1.68E+12,457,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-597,text,FALSE,,1329,120,721,721,https://shopdunk.com/iphone,457,0,0
+1.68E+12,675,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-663,text,FALSE,,1333,114,721,721,https://shopdunk.com/,675,0,275
+1.68E+12,447,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-8,text,FALSE,,1337,131,721,721,https://shopdunk.com/iphone-14-pro-max,447,0,0
+1.68E+12,454,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-607,text,FALSE,,1333,120,721,721,https://shopdunk.com/iphone,454,0,0
+1.68E+12,458,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-42,text,FALSE,,1333,120,721,721,https://shopdunk.com/iphone,458,0,0
+1.68E+12,432,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-46,text,FALSE,,1333,131,721,721,https://shopdunk.com/iphone-14-pro-max,432,0,0
+1.68E+12,448,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-464,text,FALSE,,1329,131,721,721,https://shopdunk.com/iphone-14-pro-max,448,0,0
+1.68E+12,453,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-523,text,FALSE,,1339,148,721,721,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,453,0,0
+1.68E+12,433,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-100,text,FALSE,,1339,131,721,721,https://shopdunk.com/iphone-14-pro-max,433,0,0
+1.68E+12,455,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-610,text,FALSE,,1327,120,721,721,https://shopdunk.com/iphone,455,0,0
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-613,text,FALSE,,1335,120,720,720,https://shopdunk.com/iphone,436,0,0
+1.68E+12,452,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-612,text,FALSE,,1337,120,721,721,https://shopdunk.com/iphone,452,0,0
+1.68E+12,448,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-619,text,FALSE,,1339,120,721,721,https://shopdunk.com/iphone,448,0,0
+1.68E+12,458,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-543,text,FALSE,,1325,131,720,720,https://shopdunk.com/iphone-14-pro-max,458,0,0
+1.68E+12,468,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-14,text,FALSE,,1337,131,722,722,https://shopdunk.com/iphone-14-pro-max,468,0,0
+1.68E+12,467,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-516,text,FALSE,,1333,148,722,722,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,467,0,0
+1.68E+12,468,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-34,text,FALSE,,1327,148,721,721,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,450,0,0
+1.68E+12,469,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-512,text,FALSE,,1327,148,721,721,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,469,0,0
+1.68E+12,470,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-510,text,FALSE,,1335,148,719,719,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,470,0,0
+1.68E+12,479,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-58,text,FALSE,,1335,120,719,719,https://shopdunk.com/iphone,479,0,0
+1.68E+12,470,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-564,text,FALSE,,1325,131,719,719,https://shopdunk.com/iphone-14-pro-max,470,0,0
+1.68E+12,462,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-620,text,FALSE,,1327,120,719,719,https://shopdunk.com/iphone,462,0,0
+1.68E+12,433,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-504,text,FALSE,,1337,148,719,719,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,432,0,0
+1.68E+12,455,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-562,text,FALSE,,1329,131,718,718,https://shopdunk.com/iphone-14-pro-max,455,0,0
+1.68E+12,682,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-669,text,FALSE,,1334,114,717,717,https://shopdunk.com/,682,0,253
+1.68E+12,656,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-538,text,FALSE,,1337,131,717,717,https://shopdunk.com/iphone-14-pro-max,656,0,0
+1.68E+12,652,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-477,text,FALSE,,1333,148,717,717,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,652,0,0
+1.68E+12,402,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-553,text,FALSE,,1331,131,716,716,https://shopdunk.com/iphone-14-pro-max,402,0,0
+1.68E+12,656,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-483,text,FALSE,,1327,148,716,716,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,656,0,0
+1.68E+12,406,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-555,text,FALSE,,1329,131,715,715,https://shopdunk.com/iphone-14-pro-max,406,0,0
+1.68E+12,433,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-169,text,FALSE,,1333,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,433,0,0
+1.68E+12,466,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-594,text,FALSE,,1331,120,714,714,https://shopdunk.com/iphone,455,0,0
+1.68E+12,426,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-515,text,FALSE,,1337,148,714,714,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,426,0,0
+1.68E+12,400,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-485,text,FALSE,,1329,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,394,0,0
+1.68E+12,625,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-501,text,FALSE,,1331,148,716,716,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,625,0,0
+1.68E+12,429,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-531,text,FALSE,,1331,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,429,0,0
+1.68E+12,417,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-480,text,FALSE,,1331,148,714,714,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,417,0,0
+1.68E+12,808,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-655,text,FALSE,,1325,114,713,713,https://shopdunk.com/,808,0,372
+1.68E+12,729,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-656,text,FALSE,,1337,114,713,713,https://shopdunk.com/,729,0,289
+1.68E+12,432,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-508,text,FALSE,,1331,148,713,713,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,432,0,0
+1.68E+12,719,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-665,text,FALSE,,1335,114,712,712,https://shopdunk.com/,719,0,274
+1.68E+12,734,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-662,text,FALSE,,1331,114,712,712,https://shopdunk.com/,734,0,287
+1.68E+12,381,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-603,text,FALSE,,1331,120,714,714,https://shopdunk.com/iphone,381,0,0
+1.68E+12,563,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-679,text,FALSE,,1327,114,714,714,https://shopdunk.com/,563,0,170
+1.68E+12,567,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-676,text,FALSE,,1339,114,714,714,https://shopdunk.com/,567,0,174
+1.68E+12,582,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-670,text,FALSE,,1326,114,714,714,https://shopdunk.com/,582,0,201
+1.68E+12,781,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-659,text,FALSE,,1337,114,714,714,https://shopdunk.com/,781,0,326
+1.68E+12,554,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-680,text,FALSE,,1329,114,714,714,https://shopdunk.com/,554,0,163
+1.68E+12,444,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-623,text,FALSE,,1343,120,714,714,https://shopdunk.com/iphone,444,0,0
+1.68E+12,453,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-557,text,FALSE,,1333,131,714,714,https://shopdunk.com/iphone-14-pro-max,453,0,0
+1.68E+12,389,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-595,text,FALSE,,1331,120,714,714,https://shopdunk.com/iphone,389,0,0
+1.68E+12,461,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-617,text,FALSE,,1335,120,716,716,https://shopdunk.com/iphone,461,0,0
+1.68E+12,571,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-685,text,FALSE,,1337,114,716,716,https://shopdunk.com/,571,0,172
+1.68E+12,449,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-563,text,FALSE,,1333,131,716,716,https://shopdunk.com/iphone-14-pro-max,434,0,0
+1.68E+12,583,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-677,text,FALSE,,1329,114,716,716,https://shopdunk.com/,583,0,169
+1.68E+12,464,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-630,text,FALSE,,1329,120,716,716,https://shopdunk.com/iphone,464,0,0
+1.68E+12,775,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-661,text,FALSE,,1331,114,716,716,https://shopdunk.com/,775,0,306
+1.68E+12,462,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-627,text,FALSE,,1337,120,716,716,https://shopdunk.com/iphone,462,0,0
+1.68E+12,855,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-650,text,FALSE,,1331,114,716,716,https://shopdunk.com/,855,0,206
+1.68E+12,859,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-643,text,FALSE,,1335,114,716,716,https://shopdunk.com/,859,0,205
+1.68E+12,447,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-628,text,FALSE,,1339,120,716,716,https://shopdunk.com/iphone,447,0,0
+1.68E+12,462,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-493,text,FALSE,,1331,148,716,716,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,462,0,0
+1.68E+12,449,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-482,text,FALSE,,1329,148,716,716,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,449,0,0
+1.68E+12,604,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-671,text,FALSE,,1331,114,716,716,https://shopdunk.com/,604,0,198
+1.68E+12,464,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-548,text,FALSE,,1329,131,715,715,https://shopdunk.com/iphone-14-pro-max,464,0,0
+1.68E+12,410,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-518,text,FALSE,,1329,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,410,0,0
+1.68E+12,587,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-678,text,FALSE,,1337,114,714,714,https://shopdunk.com/,587,0,179
+1.68E+12,398,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-45,text,FALSE,,1331,148,714,714,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,398,0,0
+1.68E+12,576,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-686,text,FALSE,,1339,114,714,714,https://shopdunk.com/,576,0,176
+1.68E+12,581,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-684,text,FALSE,,1329,114,713,713,https://shopdunk.com/,580,0,180
+1.68E+12,413,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-509,text,FALSE,,1335,148,713,713,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,413,0,0
+1.68E+12,412,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-44,text,FALSE,,1331,148,714,714,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,412,0,0
+1.68E+12,422,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-573,text,FALSE,,1335,131,713,713,https://shopdunk.com/iphone-14-pro-max,422,0,0
+1.68E+12,584,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-465,text,FALSE,,1335,148,713,713,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,584,0,0
+1.68E+12,422,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-503,text,FALSE,,1327,148,713,713,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,422,0,0
+1.68E+12,589,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-618,text,FALSE,,1331,120,713,713,https://shopdunk.com/iphone,589,0,0
+1.68E+12,590,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-600,text,FALSE,,1331,120,712,712,https://shopdunk.com/iphone,590,0,0
+1.68E+12,859,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-652,text,FALSE,,1329,114,712,712,https://shopdunk.com/,859,0,262
+1.68E+12,589,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-526,text,FALSE,,1333,148,714,714,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,581,0,0
+1.68E+12,600,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-615,text,FALSE,,1329,120,714,714,https://shopdunk.com/iphone,600,0,0
+1.68E+12,602,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-19,text,FALSE,,1341,131,714,714,https://shopdunk.com/iphone-14-pro-max,602,0,0
+1.68E+12,571,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-502,text,FALSE,,1341,148,714,714,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,571,0,0
+1.68E+12,414,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-604,text,FALSE,,1331,120,712,712,https://shopdunk.com/iphone,414,0,0
+1.68E+12,413,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-599,text,FALSE,,1337,120,712,712,https://shopdunk.com/iphone,413,0,0
+1.68E+12,604,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-598,text,FALSE,,1329,120,713,713,https://shopdunk.com/iphone,590,0,0
+1.68E+12,427,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-644,text,FALSE,,1337,120,713,713,https://shopdunk.com/iphone,427,0,0
+1.68E+12,611,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-609,text,FALSE,,1335,120,713,713,https://shopdunk.com/iphone,611,0,0
+1.68E+12,427,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-639,text,FALSE,,1339,120,713,713,https://shopdunk.com/iphone,427,0,0
+1.68E+12,6256,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-122,text,TRUE,,78448,114,713,713,https://shopdunk.com/,6092,0,375
+1.68E+12,421,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-568,text,FALSE,,1335,131,713,713,https://shopdunk.com/iphone-14-pro-max,421,0,0
+1.68E+12,575,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-689,text,FALSE,,1327,114,713,713,https://shopdunk.com/,575,0,179
+1.68E+12,428,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-51,text,FALSE,,1339,131,713,713,https://shopdunk.com/iphone-14-pro-max,427,0,0
+1.68E+12,602,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-571,text,FALSE,,1329,131,713,713,https://shopdunk.com/iphone-14-pro-max,602,0,0
+1.68E+12,461,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-92,text,FALSE,,1331,148,713,713,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,461,0,0
+1.68E+12,580,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-681,text,FALSE,,1329,114,713,713,https://shopdunk.com/,580,0,151
+1.68E+12,683,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-672,text,FALSE,,1337,114,712,712,https://shopdunk.com/,683,0,232
+1.68E+12,416,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-636,text,FALSE,,1329,120,712,712,https://shopdunk.com/iphone,416,0,0
+1.68E+12,418,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-579,text,FALSE,,1335,131,712,712,https://shopdunk.com/iphone-14-pro-max,418,0,0
+1.68E+12,431,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-470,text,FALSE,,1337,148,712,712,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,431,0,0
+1.68E+12,453,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-570,text,FALSE,,1333,131,711,711,https://shopdunk.com/iphone-14-pro-max,453,0,0
+1.68E+12,634,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-3,text,FALSE,,1333,131,714,714,https://shopdunk.com/iphone-14-pro-max,634,0,0
+1.68E+12,463,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-605,text,FALSE,,1335,120,714,714,https://shopdunk.com/iphone,462,0,0
+1.68E+12,661,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-89,text,FALSE,,1329,120,714,714,https://shopdunk.com/iphone,661,0,0
+1.68E+12,945,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-653,text,FALSE,,1331,114,714,714,https://shopdunk.com/,945,0,230
+1.68E+12,436,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-633,text,FALSE,,1335,120,714,714,https://shopdunk.com/iphone,435,0,0
+1.68E+12,433,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-22,text,FALSE,,1335,131,714,714,https://shopdunk.com/iphone-14-pro-max,433,0,0
+1.68E+12,870,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-654,text,FALSE,,1335,114,714,714,https://shopdunk.com/,870,0,290
+1.68E+12,598,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-682,text,FALSE,,1339,114,714,714,https://shopdunk.com/,598,0,164
+1.68E+12,422,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-189,text,FALSE,,1329,148,714,714,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,422,0,0
+1.68E+12,538,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-694,text,FALSE,,1329,114,713,713,https://shopdunk.com/,538,0,145
+1.68E+12,429,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-629,text,FALSE,,1329,120,713,713,https://shopdunk.com/iphone,429,0,0
+1.68E+12,572,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-690,text,FALSE,,1327,114,713,713,https://shopdunk.com/,572,0,166
+1.68E+12,402,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-551,text,FALSE,,1333,148,713,713,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,402,0,0
+1.68E+12,639,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-549,text,FALSE,,1335,131,713,713,https://shopdunk.com/iphone-14-pro-max,639,0,0
+1.68E+12,644,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-514,text,FALSE,,1331,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,639,0,0
+1.68E+12,408,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-528,text,FALSE,,1327,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,408,0,0
+1.68E+12,405,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-475,text,FALSE,,1327,148,715,715,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,405,0,0
+1.68E+12,577,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-631,text,FALSE,,1333,120,715,715,https://shopdunk.com/iphone,577,0,0
+1.68E+12,650,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-567,text,FALSE,,1331,131,713,713,https://shopdunk.com/iphone-14-pro-max,650,0,0
+1.68E+12,403,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-592,text,FALSE,,1329,131,713,713,https://shopdunk.com/iphone-14-pro-max,403,0,0
+1.68E+12,649,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-569,text,FALSE,,1325,131,713,713,https://shopdunk.com/iphone-14-pro-max,649,0,0
+1.68E+12,653,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-588,text,FALSE,,1333,120,713,713,https://shopdunk.com/iphone,653,0,0
+1.68E+12,656,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-463,text,FALSE,,1331,148,713,713,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,655,0,0
+1.68E+12,649,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-539,text,FALSE,,1331,131,713,713,https://shopdunk.com/iphone-14-pro-max,649,0,0
+1.68E+12,651,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-601,text,FALSE,,1329,120,712,712,https://shopdunk.com/iphone,651,0,0
+1.68E+12,404,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-535,text,FALSE,,1333,148,712,712,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,404,0,0
+1.68E+12,877,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-666,text,FALSE,,1331,114,712,712,https://shopdunk.com/,877,0,285
+1.68E+12,577,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-529,text,FALSE,,1333,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,576,0,0
+1.68E+12,877,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-664,text,FALSE,,1329,114,710,710,https://shopdunk.com/,876,0,285
+1.68E+12,879,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-667,text,FALSE,,1331,114,710,710,https://shopdunk.com/,879,0,271
+1.68E+12,656,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-505,text,FALSE,,1347,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,648,0,0
+1.68E+12,427,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-586,text,FALSE,,1337,131,708,708,https://shopdunk.com/iphone-14-pro-max,427,0,0
+1.68E+12,588,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-691,text,FALSE,,1327,114,709,709,https://shopdunk.com/,588,0,158
+1.68E+12,422,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-556,text,FALSE,,1325,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,422,0,0
+1.68E+12,440,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-550,text,FALSE,,1331,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,440,0,0
+1.68E+12,626,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-454,text,FALSE,,1331,148,707,707,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,626,0,0
+1.68E+12,413,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-647,text,FALSE,,1329,120,706,706,https://shopdunk.com/iphone,413,0,0
+1.68E+12,559,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-697,text,FALSE,,1335,114,706,706,https://shopdunk.com/,559,0,159
+1.68E+12,414,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-565,text,FALSE,,1337,148,706,706,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,414,0,0
+1.68E+12,580,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-521,text,FALSE,,1337,148,706,706,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,580,0,0
+1.68E+12,436,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-7,text,FALSE,,1329,148,704,704,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,436,0,0
+1.68E+12,576,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-688,text,FALSE,,1331,114,704,704,https://shopdunk.com/,576,0,177
+1.68E+12,912,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-668,text,FALSE,,1331,114,704,704,https://shopdunk.com/,912,0,283
+1.68E+12,390,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-544,text,FALSE,,1331,148,704,704,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,390,0,0
+1.68E+12,445,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-541,text,FALSE,,1329,148,703,703,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,445,0,0
+1.68E+12,535,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-703,text,FALSE,,1335,114,702,702,https://shopdunk.com/,534,0,167
+1.68E+12,557,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-701,text,FALSE,,1335,114,702,702,https://shopdunk.com/,557,0,154
+1.68E+12,395,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-491,text,FALSE,,1327,131,702,702,https://shopdunk.com/iphone-14-pro-max,395,0,0
+1.68E+12,368,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-500,text,FALSE,,1335,131,702,702,https://shopdunk.com/iphone-14-pro-max,368,0,0
+1.68E+12,606,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-693,text,FALSE,,1329,114,703,703,https://shopdunk.com/,606,0,156
+1.68E+12,7487,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-36,text,TRUE,,78442,114,703,703,https://shopdunk.com/,7322,0,1542
+1.68E+12,576,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-699,text,FALSE,,1333,114,703,703,https://shopdunk.com/,576,0,196
+1.68E+12,451,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-624,text,FALSE,,1339,120,703,703,https://shopdunk.com/iphone,451,0,0
+1.68E+12,617,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-511,text,FALSE,,1339,148,703,703,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,617,0,0
+1.68E+12,407,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-554,text,FALSE,,1333,148,702,702,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,407,0,0
+1.68E+12,391,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-524,text,FALSE,,1331,148,702,702,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,391,0,0
+1.68E+12,631,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-513,text,FALSE,,1329,148,701,701,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,631,0,0
+1.68E+12,393,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-621,text,FALSE,,1333,120,699,699,https://shopdunk.com/iphone,393,0,0
+1.68E+12,578,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-704,text,FALSE,,1331,114,702,702,https://shopdunk.com/,578,0,180
+1.68E+12,603,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-700,text,FALSE,,1331,114,702,702,https://shopdunk.com/,603,0,193
+1.68E+12,802,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-674,text,FALSE,,1331,114,702,702,https://shopdunk.com/,802,0,222
+1.68E+12,635,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-591,text,FALSE,,1339,131,702,702,https://shopdunk.com/iphone-14-pro-max,635,0,0
+1.68E+12,785,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-675,text,FALSE,,1333,114,702,702,https://shopdunk.com/,785,0,169
+1.68E+12,635,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-560,text,FALSE,,1335,131,702,702,https://shopdunk.com/iphone-14-pro-max,635,0,0
+1.68E+12,602,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-484,text,FALSE,,1329,131,702,702,https://shopdunk.com/iphone-14-pro-max,602,0,0
+1.68E+12,368,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-657,text,FALSE,,1337,120,702,702,https://shopdunk.com/iphone,368,0,0
+1.68E+12,367,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-658,text,FALSE,,1331,120,702,702,https://shopdunk.com/iphone,367,0,0
+1.68E+12,574,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-558,text,FALSE,,1331,148,706,706,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,573,0,0
+1.68E+12,614,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-540,text,FALSE,,1333,131,705,705,https://shopdunk.com/iphone-14-pro-max,614,0,0
+1.68E+12,593,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-706,text,FALSE,,1329,114,705,705,https://shopdunk.com/,593,0,165
+1.68E+12,623,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-695,text,FALSE,,1335,114,705,705,https://shopdunk.com/,623,0,191
+1.68E+12,570,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-577,text,FALSE,,1335,131,705,705,https://shopdunk.com/iphone-14-pro-max,570,0,0
+1.68E+12,401,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-648,text,FALSE,,1331,120,705,705,https://shopdunk.com/iphone,401,0,0
+1.68E+12,409,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-590,text,FALSE,,1335,131,705,705,https://shopdunk.com/iphone-14-pro-max,409,0,0
+1.68E+12,406,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-635,text,FALSE,,1333,120,705,705,https://shopdunk.com/iphone,406,0,0
+1.68E+12,618,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-696,text,FALSE,,1327,114,705,705,https://shopdunk.com/,618,0,187
+1.68E+12,442,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-559,text,FALSE,,1337,131,705,705,https://shopdunk.com/iphone-14-pro-max,442,0,0
+1.68E+12,456,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-640,text,FALSE,,1335,120,707,707,https://shopdunk.com/iphone,456,0,0
+1.68E+12,622,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-705,text,FALSE,,1327,114,707,707,https://shopdunk.com/,622,0,171
+1.68E+12,413,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-646,text,FALSE,,1347,120,707,707,https://shopdunk.com/iphone,413,0,0
+1.68E+12,427,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-21,text,FALSE,,1331,120,707,707,https://shopdunk.com/iphone,427,0,0
+1.68E+12,579,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-710,text,FALSE,,1331,114,707,707,https://shopdunk.com/,579,0,172
+1.68E+12,402,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-632,text,FALSE,,1329,120,707,707,https://shopdunk.com/iphone,402,0,0
+1.68E+12,616,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-616,text,FALSE,,1337,120,707,707,https://shopdunk.com/iphone,616,0,0
+1.68E+12,604,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-707,text,FALSE,,1335,114,707,707,https://shopdunk.com/,604,0,200
+1.68E+12,833,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-673,text,FALSE,,1333,114,707,707,https://shopdunk.com/,833,0,250
+1.68E+12,618,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-708,text,FALSE,,1331,114,711,711,https://shopdunk.com/,618,0,180
+1.68E+12,640,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-611,text,FALSE,,1327,120,711,711,https://shopdunk.com/iphone,640,0,0
+1.68E+12,383,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-606,text,FALSE,,1331,131,711,711,https://shopdunk.com/iphone-14-pro-max,383,0,0
+1.68E+12,595,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-585,text,FALSE,,1329,131,711,711,https://shopdunk.com/iphone-14-pro-max,595,0,0
+1.68E+12,593,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-645,text,FALSE,,1331,120,711,711,https://shopdunk.com/iphone,591,0,0
+1.68E+12,593,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-641,text,FALSE,,1335,120,711,711,https://shopdunk.com/iphone,593,0,0
+1.68E+12,387,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-608,text,FALSE,,1335,131,711,711,https://shopdunk.com/iphone-14-pro-max,387,0,0
+1.68E+12,399,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-572,text,FALSE,,1331,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,398,0,0
+1.68E+12,404,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-537,text,FALSE,,1335,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,404,0,0
+1.68E+12,595,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-712,text,FALSE,,1329,114,709,709,https://shopdunk.com/,595,0,189
+1.68E+12,409,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-582,text,FALSE,,1331,131,709,709,https://shopdunk.com/iphone-14-pro-max,409,0,0
+1.68E+12,407,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-534,text,FALSE,,1331,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,407,0,0
+1.68E+12,573,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-625,text,FALSE,,1331,120,709,709,https://shopdunk.com/iphone,573,0,0
+1.68E+12,770,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-683,text,FALSE,,1339,114,709,709,https://shopdunk.com/,770,0,189
+1.68E+12,412,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-637,text,FALSE,,1337,120,708,708,https://shopdunk.com/iphone,412,0,0
+1.68E+12,792,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-687,text,FALSE,,1335,114,708,708,https://shopdunk.com/,792,0,188
+1.68E+12,417,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-660,text,FALSE,,1331,120,708,708,https://shopdunk.com/iphone,417,0,0
+1.68E+12,622,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-711,text,FALSE,,1329,114,708,708,https://shopdunk.com/,622,0,209
+1.68E+12,623,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-638,text,FALSE,,1331,120,708,708,https://shopdunk.com/iphone,623,0,0
+1.68E+12,390,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-464,text,FALSE,,1333,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,390,0,0
+1.68E+12,727,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-698,text,FALSE,,1327,114,711,711,https://shopdunk.com/,727,0,161
+1.68E+12,401,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-46,text,FALSE,,1327,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,401,0,0
+1.68E+12,398,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-619,text,FALSE,,1335,131,711,711,https://shopdunk.com/iphone-14-pro-max,398,0,0
+1.68E+12,403,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-607,text,FALSE,,1337,131,710,710,https://shopdunk.com/iphone-14-pro-max,403,0,0
+1.68E+12,604,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-714,text,FALSE,,1334,114,710,710,https://shopdunk.com/,603,0,218
+1.68E+12,404,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-610,text,FALSE,,1331,131,710,710,https://shopdunk.com/iphone-14-pro-max,404,0,0
+1.68E+12,408,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-612,text,FALSE,,1331,131,711,711,https://shopdunk.com/iphone-14-pro-max,408,0,0
+1.68E+12,615,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-581,text,FALSE,,1328,131,711,711,https://shopdunk.com/iphone-14-pro-max,615,0,0
+1.68E+12,624,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-589,text,FALSE,,1333,131,711,711,https://shopdunk.com/iphone-14-pro-max,624,0,0
+1.68E+12,783,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-692,text,FALSE,,1327,114,711,711,https://shopdunk.com/,783,0,164
+1.68E+12,393,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-58,text,FALSE,,1334,131,711,711,https://shopdunk.com/iphone-14-pro-max,393,0,0
+1.68E+12,614,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-715,text,FALSE,,1331,114,711,711,https://shopdunk.com/,614,0,224
+1.68E+12,648,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-545,text,FALSE,,1333,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,648,0,0
+1.68E+12,625,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-593,text,FALSE,,1331,131,711,711,https://shopdunk.com/iphone-14-pro-max,625,0,0
+1.68E+12,633,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-546,text,FALSE,,1327,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,633,0,0
+1.68E+12,427,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-578,text,FALSE,,1335,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,427,0,0
+1.68E+12,558,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-71,text,FALSE,,1331,131,711,711,https://shopdunk.com/iphone-14-pro-max,558,0,0
+1.68E+12,436,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-597,text,FALSE,,1329,131,711,711,https://shopdunk.com/iphone-14-pro-max,436,0,0
+1.68E+12,430,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-538,text,FALSE,,1331,148,712,712,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,430,0,0
+1.68E+12,648,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-716,text,FALSE,,1333,114,712,712,https://shopdunk.com/,648,0,216
+1.68E+12,613,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-719,text,FALSE,,1337,114,712,712,https://shopdunk.com/,613,0,187
+1.68E+12,434,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-669,text,FALSE,,1331,120,711,711,https://shopdunk.com/iphone,434,0,0
+1.68E+12,614,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-713,text,FALSE,,1333,114,711,711,https://shopdunk.com/,613,0,181
+1.68E+12,636,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-718,text,FALSE,,1337,114,711,711,https://shopdunk.com/,636,0,207
+1.68E+12,645,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-717,text,FALSE,,1331,114,711,711,https://shopdunk.com/,645,0,214
+1.68E+12,445,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-543,text,FALSE,,1331,148,712,712,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,444,0,0
+1.68E+12,615,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-720,text,FALSE,,1339,114,712,712,https://shopdunk.com/,615,0,180
+1.68E+12,460,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-8,text,FALSE,,1329,148,712,712,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,460,0,0
+1.68E+12,432,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-553,text,FALSE,,1341,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,432,0,0
+1.68E+12,439,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-562,text,FALSE,,1329,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,439,0,0
+1.68E+12,441,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-620,text,FALSE,,1329,131,708,708,https://shopdunk.com/iphone-14-pro-max,438,0,0
+1.68E+12,455,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-594,text,FALSE,,1335,131,708,708,https://shopdunk.com/iphone-14-pro-max,455,0,0
+1.68E+12,487,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-42,text,FALSE,,1333,131,708,708,https://shopdunk.com/iphone-14-pro-max,487,0,0
+1.68E+12,420,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-557,text,FALSE,,1329,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,420,0,0
+1.68E+12,468,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-564,text,FALSE,,1331,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,468,0,0
+1.68E+12,401,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-650,text,FALSE,,1331,120,708,708,https://shopdunk.com/iphone,401,0,0
+1.68E+12,472,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-14,text,FALSE,,1335,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,472,0,0
+1.68E+12,435,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-655,text,FALSE,,1331,120,705,705,https://shopdunk.com/iphone,435,0,0
+1.68E+12,491,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-100,text,FALSE,,1339,148,706,706,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,490,0,0
+1.68E+12,406,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-661,text,FALSE,,1331,120,706,706,https://shopdunk.com/iphone,406,0,0
+1.68E+12,429,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-659,text,FALSE,,1329,120,706,706,https://shopdunk.com/iphone,429,0,0
+1.68E+12,408,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-643,text,FALSE,,1327,120,706,706,https://shopdunk.com/iphone,408,0,0
+1.68E+12,794,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-702,text,FALSE,,1329,114,706,706,https://shopdunk.com/,794,0,195
+1.68E+12,431,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-677,text,FALSE,,1343,120,706,706,https://shopdunk.com/iphone,431,0,0
+1.68E+12,461,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-656,text,FALSE,,1333,120,706,706,https://shopdunk.com/iphone,447,0,0
+1.68E+12,452,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-603,text,FALSE,,1333,131,706,706,https://shopdunk.com/iphone-14-pro-max,452,0,0
+1.68E+12,431,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-671,text,FALSE,,1327,120,706,706,https://shopdunk.com/iphone,430,0,0
+1.68E+12,435,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-563,text,FALSE,,1330,148,706,706,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,434,0,0
+1.68E+12,455,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-670,text,FALSE,,1335,120,705,705,https://shopdunk.com/iphone,455,0,0
+1.68E+12,452,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-623,text,FALSE,,1341,131,705,705,https://shopdunk.com/iphone-14-pro-max,452,0,0
+1.68E+12,464,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-662,text,FALSE,,1329,120,705,705,https://shopdunk.com/iphone,464,0,0
+1.68E+12,434,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-628,text,FALSE,,1337,131,705,705,https://shopdunk.com/iphone-14-pro-max,434,0,0
+1.68E+12,432,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-548,text,FALSE,,1331,148,705,705,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,432,0,0
+1.68E+12,429,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-684,text,FALSE,,1331,120,705,705,https://shopdunk.com/iphone,429,0,0
+1.68E+12,639,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-622,text,FALSE,,1329,120,705,705,https://shopdunk.com/iphone,639,0,0
+1.68E+12,431,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-686,text,FALSE,,1337,120,704,704,https://shopdunk.com/iphone,431,0,0
+1.68E+12,784,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-709,text,FALSE,,1339,114,704,704,https://shopdunk.com/,784,0,173
+1.68E+12,606,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-583,text,FALSE,,1341,131,704,704,https://shopdunk.com/iphone-14-pro-max,606,0,0
+1.68E+12,649,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-507,text,FALSE,,1337,148,704,704,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,649,0,0
+1.68E+12,600,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-574,text,FALSE,,1329,131,703,703,https://shopdunk.com/iphone-14-pro-max,600,0,0
+1.68E+12,653,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-649,text,FALSE,,1335,120,703,703,https://shopdunk.com/iphone,653,0,0
+1.68E+12,579,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-596,text,FALSE,,1329,131,703,703,https://shopdunk.com/iphone-14-pro-max,579,0,0
+1.68E+12,443,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-685,text,FALSE,,1329,120,703,703,https://shopdunk.com/iphone,443,0,0
+1.68E+12,596,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-728,text,FALSE,,1329,114,703,703,https://shopdunk.com/,596,0,197
+1.68E+12,575,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-584,text,FALSE,,1331,131,706,706,https://shopdunk.com/iphone-14-pro-max,575,0,0
+1.68E+12,562,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-575,text,FALSE,,1335,148,706,706,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,562,0,0
+1.68E+12,611,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-724,text,FALSE,,1331,114,706,706,https://shopdunk.com/,611,0,189
+1.68E+12,618,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-730,text,FALSE,,1337,114,706,706,https://shopdunk.com/,618,0,186
+1.68E+12,658,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-725,text,FALSE,,1335,114,706,706,https://shopdunk.com/,658,0,231
+1.68E+12,623,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-723,text,FALSE,,1331,114,707,707,https://shopdunk.com/,623,0,195
+1.68E+12,602,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-634,text,FALSE,,1333,120,708,708,https://shopdunk.com/iphone,602,0,0
+1.68E+12,417,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-19,text,FALSE,,1333,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,417,0,0
+1.68E+12,418,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-599,text,FALSE,,1333,131,707,707,https://shopdunk.com/iphone-14-pro-max,418,0,0
+1.68E+12,596,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-602,text,FALSE,,1335,131,707,707,https://shopdunk.com/iphone-14-pro-max,596,0,0
+1.68E+12,637,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-525,text,FALSE,,1339,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,637,0,0
+1.68E+12,434,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-618,text,FALSE,,1331,131,708,708,https://shopdunk.com/iphone-14-pro-max,434,0,0
+1.68E+12,636,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-729,text,FALSE,,1329,114,708,708,https://shopdunk.com/,636,0,191
+1.68E+12,429,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-615,text,FALSE,,1333,131,708,708,https://shopdunk.com/iphone-14-pro-max,429,0,0
+1.68E+12,619,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-732,text,FALSE,,1333,114,708,708,https://shopdunk.com/,619,0,178
+1.68E+12,436,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-604,text,FALSE,,1331,131,709,709,https://shopdunk.com/iphone-14-pro-max,428,0,0
+1.68E+12,457,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-573,text,FALSE,,1329,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,457,0,0
+1.68E+12,653,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-642,text,FALSE,,1335,120,709,709,https://shopdunk.com/iphone,644,0,0
+1.68E+12,615,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-733,text,FALSE,,1335,114,708,708,https://shopdunk.com/,615,0,163
+1.68E+12,451,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-652,text,FALSE,,1331,120,709,709,https://shopdunk.com/iphone,451,0,0
+1.68E+12,472,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-600,text,FALSE,,1331,131,711,711,https://shopdunk.com/iphone-14-pro-max,472,0,0
+1.68E+12,446,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-51,text,FALSE,,1333,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,446,0,0
+1.68E+12,430,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-22,text,FALSE,,1331,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,430,0,0
+1.68E+12,614,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-663,text,FALSE,,1331,120,711,711,https://shopdunk.com/iphone,614,0,0
+1.68E+12,448,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-681,text,FALSE,,1335,120,710,710,https://shopdunk.com/iphone,448,0,0
+1.68E+12,414,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-667,text,FALSE,,1333,120,710,710,https://shopdunk.com/iphone,414,0,0
+1.68E+12,453,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-571,text,FALSE,,1337,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,453,0,0
+1.68E+12,430,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-549,text,FALSE,,1335,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,430,0,0
+1.68E+12,453,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-579,text,FALSE,,1327,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,453,0,0
+1.68E+12,459,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-568,text,FALSE,,1343,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,459,0,0
+1.68E+12,425,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-588,text,FALSE,,1329,131,708,708,https://shopdunk.com/iphone-14-pro-max,425,0,0
+1.68E+12,435,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-690,text,FALSE,,1329,120,707,707,https://shopdunk.com/iphone,435,0,0
+1.68E+12,6341,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-178,text,TRUE,,78446,114,707,707,https://shopdunk.com/,6142,0,179
+1.68E+12,424,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-666,text,FALSE,,1331,120,707,707,https://shopdunk.com/iphone,424,0,0
+1.68E+12,462,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-689,text,FALSE,,1329,120,707,707,https://shopdunk.com/iphone,462,0,0
+1.68E+12,446,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-89,text,FALSE,,1331,131,707,707,https://shopdunk.com/iphone-14-pro-max,445,0,0
+1.68E+12,624,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-737,text,FALSE,,1331,114,708,708,https://shopdunk.com/,624,0,204
+1.68E+12,476,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-598,text,FALSE,,1331,131,708,708,https://shopdunk.com/iphone-14-pro-max,476,0,0
+1.68E+12,423,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-691,text,FALSE,,1339,120,708,708,https://shopdunk.com/iphone,423,0,0
+1.68E+12,408,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-697,text,FALSE,,1333,120,708,708,https://shopdunk.com/iphone,408,0,0
+1.68E+12,479,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-122,text,FALSE,,1337,120,708,708,https://shopdunk.com/iphone,479,0,0
+1.68E+12,788,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-721,text,FALSE,,1339,114,708,708,https://shopdunk.com/,788,0,178
+1.68E+12,454,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-629,text,FALSE,,1337,131,708,708,https://shopdunk.com/iphone-14-pro-max,454,0,0
+1.68E+12,483,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-644,text,FALSE,,1333,131,708,708,https://shopdunk.com/iphone-14-pro-max,483,0,0
+1.68E+12,445,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-539,text,FALSE,,1333,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,445,0,0
+1.68E+12,448,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-631,text,FALSE,,1333,131,709,709,https://shopdunk.com/iphone-14-pro-max,447,0,0
+1.68E+12,604,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-739,text,FALSE,,1341,114,708,708,https://shopdunk.com/,604,0,185
+1.68E+12,459,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-569,text,FALSE,,1331,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,448,0,0
+1.68E+12,468,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-694,text,FALSE,,1343,120,710,710,https://shopdunk.com/iphone,468,0,0
+1.68E+12,412,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-701,text,FALSE,,1335,120,710,710,https://shopdunk.com/iphone,412,0,0
+1.68E+12,459,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-567,text,FALSE,,1331,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,459,0,0
+1.68E+12,478,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-653,text,FALSE,,1333,120,709,709,https://shopdunk.com/iphone,478,0,0
+1.68E+12,647,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-734,text,FALSE,,1329,114,709,709,https://shopdunk.com/,647,0,206
+1.68E+12,496,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-639,text,FALSE,,1341,131,709,709,https://shopdunk.com/iphone-14-pro-max,496,0,0
+1.68E+12,481,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-605,text,FALSE,,1335,131,708,708,https://shopdunk.com/iphone-14-pro-max,481,0,0
+1.68E+12,428,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-647,text,FALSE,,1335,131,708,708,https://shopdunk.com/iphone-14-pro-max,428,0,0
+1.68E+12,623,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-731,text,FALSE,,1333,114,708,708,https://shopdunk.com/,623,0,192
+1.68E+12,485,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-3,text,FALSE,,1329,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,485,0,0
+1.68E+12,620,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-740,text,FALSE,,1329,114,710,710,https://shopdunk.com/,620,0,191
+1.68E+12,420,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-703,text,FALSE,,1335,120,710,710,https://shopdunk.com/iphone,420,0,0
+1.68E+12,636,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-738,text,FALSE,,1335,114,710,710,https://shopdunk.com/,636,0,190
+1.68E+12,6374,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-172,text,TRUE,,78434,114,710,710,https://shopdunk.com/,6160,0,193
+1.68E+12,420,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-624,text,FALSE,,1331,131,710,710,https://shopdunk.com/iphone-14-pro-max,420,0,0
+1.68E+12,434,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-491,text,FALSE,,1331,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,434,0,0
+1.68E+12,819,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-722,text,FALSE,,1329,114,710,710,https://shopdunk.com/,819,0,167
+1.68E+12,478,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-664,text,FALSE,,1337,120,710,710,https://shopdunk.com/iphone,478,0,0
+1.68E+12,684,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-566,text,FALSE,,1331,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,684,0,0
+1.68E+12,459,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-500,text,FALSE,,1329,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,436,0,0
+1.68E+12,641,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-676,text,FALSE,,1329,120,711,711,https://shopdunk.com/iphone,640,0,0
+1.68E+12,633,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-744,text,FALSE,,1333,114,710,710,https://shopdunk.com/,632,0,196
+1.68E+12,7456,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-86,text,TRUE,,78415,114,710,710,https://shopdunk.com/,7237,0,915
+1.68E+12,6461,Shopdunk Home,200,OK,Thread Group - Shop Dunk 1-184,text,TRUE,,78452,114,710,710,https://shopdunk.com/,6298,0,172
+1.68E+12,707,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-613,text,FALSE,,1339,131,710,710,https://shopdunk.com/iphone-14-pro-max,707,0,0
+1.68E+12,626,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-617,text,FALSE,,1331,131,710,710,https://shopdunk.com/iphone-14-pro-max,626,0,0
+1.68E+12,456,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-699,text,FALSE,,1329,120,710,710,https://shopdunk.com/iphone,456,0,0
+1.68E+12,447,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-621,text,FALSE,,1331,131,710,710,https://shopdunk.com/iphone-14-pro-max,447,0,0
+1.68E+12,619,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-745,text,FALSE,,1341,114,710,710,https://shopdunk.com/,619,0,173
+1.68E+12,618,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-746,text,FALSE,,1329,114,710,710,https://shopdunk.com/,618,0,192
+1.68E+12,424,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-675,text,FALSE,,1341,120,710,710,https://shopdunk.com/iphone,424,0,0
+1.68E+12,657,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-665,text,FALSE,,1337,120,710,710,https://shopdunk.com/iphone,657,0,0
+1.68E+12,422,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-658,text,FALSE,,1337,131,710,710,https://shopdunk.com/iphone-14-pro-max,422,0,0
+1.68E+12,464,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-36,text,FALSE,,1335,120,710,710,https://shopdunk.com/iphone,464,0,0
+1.68E+12,689,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-555,text,FALSE,,1331,148,712,712,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,689,0,0
+1.68E+12,637,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-630,text,FALSE,,1335,131,711,711,https://shopdunk.com/iphone-14-pro-max,637,0,0
+1.68E+12,403,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-540,text,FALSE,,1331,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,403,0,0
+1.68E+12,403,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-695,text,FALSE,,1333,120,710,710,https://shopdunk.com/iphone,403,0,0
+1.68E+12,404,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-706,text,FALSE,,1331,120,710,710,https://shopdunk.com/iphone,404,0,0
+1.68E+12,435,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-674,text,FALSE,,1329,120,710,710,https://shopdunk.com/iphone,435,0,0
+1.68E+12,403,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-696,text,FALSE,,1329,120,710,710,https://shopdunk.com/iphone,403,0,0
+1.68E+12,666,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-595,text,FALSE,,1327,131,711,711,https://shopdunk.com/iphone-14-pro-max,666,0,0
+1.68E+12,669,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-680,text,FALSE,,1329,120,711,711,https://shopdunk.com/iphone,669,0,0
+1.68E+12,446,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-591,text,FALSE,,1339,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,446,0,0
+1.68E+12,417,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-577,text,FALSE,,1335,148,711,711,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,417,0,0
+1.68E+12,417,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-635,text,FALSE,,1329,131,710,710,https://shopdunk.com/iphone-14-pro-max,417,0,0
+1.68E+12,593,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-751,text,FALSE,,1331,114,709,709,https://shopdunk.com/,593,0,178
+1.68E+12,624,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-748,text,FALSE,,1333,114,709,709,https://shopdunk.com/,624,0,177
+1.68E+12,446,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-657,text,FALSE,,1331,131,709,709,https://shopdunk.com/iphone-14-pro-max,446,0,0
+1.68E+12,450,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-704,text,FALSE,,1325,120,709,709,https://shopdunk.com/iphone,450,0,0
+1.68E+12,681,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-741,text,FALSE,,1337,114,709,709,https://shopdunk.com/,681,0,230
+1.68E+12,450,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-560,text,FALSE,,1327,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,450,0,0
+1.68E+12,451,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-700,text,FALSE,,1327,120,709,709,https://shopdunk.com/iphone,451,0,0
+1.68E+12,585,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-752,text,FALSE,,1333,114,709,709,https://shopdunk.com/,585,0,169
+1.68E+12,651,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-678,text,FALSE,,1327,120,708,708,https://shopdunk.com/iphone,651,0,0
+1.68E+12,601,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-750,text,FALSE,,1337,114,708,708,https://shopdunk.com/,601,0,183
+1.68E+12,428,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-590,text,FALSE,,1335,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,420,0,0
+1.68E+12,413,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-673,text,FALSE,,1331,120,709,709,https://shopdunk.com/iphone,413,0,0
+1.68E+12,415,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-21,text,FALSE,,1337,131,709,709,https://shopdunk.com/iphone-14-pro-max,415,0,0
+1.68E+12,430,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-648,text,FALSE,,1337,131,709,709,https://shopdunk.com/iphone-14-pro-max,430,0,0
+1.68E+12,417,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-646,text,FALSE,,1333,131,709,709,https://shopdunk.com/iphone-14-pro-max,417,0,0
+1.68E+12,417,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-705,text,FALSE,,1329,120,709,709,https://shopdunk.com/iphone,417,0,0
+1.68E+12,578,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-754,text,FALSE,,1337,114,709,709,https://shopdunk.com/,578,0,186
+1.68E+12,419,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-710,text,FALSE,,1337,120,709,709,https://shopdunk.com/iphone,419,0,0
+1.68E+12,420,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-632,text,FALSE,,1331,131,709,709,https://shopdunk.com/iphone-14-pro-max,420,0,0
+1.68E+12,679,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-627,text,FALSE,,1333,131,710,710,https://shopdunk.com/iphone-14-pro-max,678,0,0
+1.68E+12,403,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-585,text,FALSE,,1325,148,710,710,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,394,0,0
+1.68E+12,402,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-645,text,FALSE,,1327,131,710,710,https://shopdunk.com/iphone-14-pro-max,402,0,0
+1.68E+12,582,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-654,text,FALSE,,1333,120,709,709,https://shopdunk.com/iphone,582,0,0
+1.68E+12,395,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-582,text,FALSE,,1333,148,709,709,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,395,0,0
+1.68E+12,575,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-756,text,FALSE,,1339,114,708,708,https://shopdunk.com/,575,0,176
+1.68E+12,437,detail iphone-14-pro-max,503,Service Unavailable,Thread Group - Shop Dunk 1-640,text,FALSE,,1331,131,708,708,https://shopdunk.com/iphone-14-pro-max,432,0,0
+1.68E+12,586,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-682,text,FALSE,,1341,120,708,708,https://shopdunk.com/iphone,585,0,0
+1.68E+12,604,page Iphone,503,Service Unavailable,Thread Group - Shop Dunk 1-672,text,FALSE,,1331,120,708,708,https://shopdunk.com/iphone,604,0,0
+1.68E+12,412,Login,503,Service Unavailable,Thread Group - Shop Dunk 1-606,text,FALSE,,1335,148,708,708,https://shopdunk.com/login?ReturnUrl=%2Fcustomer%2Finfo,412,0,0
+1.68E+12,853,Shopdunk Home,503,Service Unavailable,Thread Group - Shop Dunk 1-727,text,FALSE,,1331,,,,,,,
